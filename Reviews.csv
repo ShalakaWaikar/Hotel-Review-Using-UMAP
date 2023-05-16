@@ -1,0 +1,1000 @@
+﻿Index,Restaurant,Cuisine,Review,Response,Rating
+1,The Gourmet Kitchen,French,The Gourmet Kitchen serves the most delicious French cuisine in town! The ambience is perfect for a romantic dinner or a night out with friends. I highly recommend the escargot and the crème brûlée.,Positive,5
+2,Mama's Italian Kitchen,Italian,"Mama's Italian Kitchen is my new favorite Italian restaurant! The pasta is always cooked perfectly, and the sauce is rich and flavorful. The garlic bread is also a must-try.",Positive,5
+3,Sushi Palace,Japanese,"Sushi Palace is the best sushi restaurant in the city. The sushi is always fresh and expertly prepared, and the miso soup is the perfect starter. The atmosphere is also very cozy and welcoming.",Positive,5
+4,The Green Table,Vegetarian,"The Green Table is the perfect spot for vegetarians and vegans. The food is always fresh and flavorful, and the prices are very reasonable. I especially recommend the lentil soup and the avocado toast.",Positive,4
+5,The Steakhouse,American,"The Steakhouse is the go-to spot for meat-lovers. The steaks are always cooked to perfection, and the sides are delicious. The only downside is that it can be quite pricey.",Positive,4
+6,Thai Spice,Thai,"Thai Spice is one of the best Thai restaurants in town. The curries are always flavorful and spicy, and the pad thai is a must-try. The service is also very friendly and attentive.",Positive,5
+7,La Dolce Vita,Italian,"La Dolce Vita has the best Italian food in the city. The pizza is crispy and delicious, and the tiramisu is out of this world. The only downside is that it can get quite crowded, so make sure to make a reservation.",Positive,4
+8,Bistro 52,French,"Bistro 52 is a hidden gem in the city. The food is exquisite, and the wine list is impressive. The atmosphere is also very cozy and romantic. I highly recommend the coq au vin.",Positive,5
+9,The Golden Wok,Chinese,"The Golden Wok serves the best Chinese food in town. The hot and sour soup is perfect for a cold day, and the moo shu pork is a must-try. The service is also very fast and friendly.",Positive,5
+10,The Seafood Shack,Seafood,"The Seafood Shack has the freshest seafood in town. The fish tacos are amazing, and the lobster bisque is to die for. The only downside is that it can be a bit noisy.",Positive,4
+11,The Happy Hour,American,"The Happy Hour is the perfect spot for a casual dinner or drinks with friends. The burgers are juicy and flavorful, and the fries are crispy and delicious. The prices are also very reasonable.",Positive,4
+12,The Tandoori Oven,Indian,"The Tandoori Oven is the best Indian restaurant in the city. The naan is always fresh and warm, and the chicken tikka masala is a must-try. The service is also very friendly and accommodating.",Positive,5
+13,The Italian Kitchen,Italian,I had a fantastic experience at The Italian Kitchen! The service was impeccable and the food was delicious. I highly recommend trying the spaghetti carbonara.,Positive,5
+14,Sushi Heaven,Japanese,Sushi Heaven is a must-visit for anyone who loves sushi. The sushi is fresh and expertly prepared. The service is also excellent. Highly recommend!,Positive,4
+15,The Greasy Spoon,American,The Greasy Spoon is a classic American diner that serves up delicious comfort food. The burgers are especially tasty. Great spot for a casual meal.,Positive,4
+16,Thai Delight,Thai,Thai Delight has some of the best Thai food in town. The pad thai and green curry are both fantastic. The service is also top-notch. Highly recommend.,Positive,5
+17,The French Connection,French,The French Connection is a lovely French restaurant with a romantic atmosphere. The escargot and coq au vin are both delicious. Highly recommend.,Positive,5
+18,The Sizzling Sizzler,Steakhouse,The Sizzling Sizzler is the perfect spot for a delicious steak. The filet mignon was cooked to perfection and the service was excellent. Highly recommend.,Positive,4
+19,Bombay Bites,Indian,Bombay Bites has some of the best Indian food I've ever had. The chicken tikka masala and garlic naan were both fantastic. Highly recommend.,Positive,5
+20,El Fuego,Mexican,El Fuego is a lively Mexican restaurant with delicious food and great margaritas. The guacamole is a must-try. Highly recommend.,Positive,4
+21,The Pasta Place,Italian,"The Pasta Place serves up some of the best Italian food in town. The pasta dishes are all fantastic, especially the lasagna. Highly recommend.",Positive,5
+22,The Golden Wok,Chinese,The Golden Wok has some of the best Chinese food in town. The dumplings and fried rice are both delicious. Highly recommend.,Positive,4
+23,La Brasserie,French,La Brasserie is a charming French bistro with excellent food and service. The beef bourguignon and crème brûlée are both fantastic. Highly recommend.,Positive,5
+24,The Sushi Spot,Japanese,The Sushi Spot has some of the freshest and most delicious sushi I've ever had. The spicy tuna roll is a must-try. Highly recommend.,Positive,4
+25,The Red Rooster,American,"The Red Rooster is a classic American diner with great food and service. The breakfast options are all fantastic, especially the pancakes. Highly recommend.",Positive,4
+26,Curry House,Indian,Curry House has some of the best Indian food in town. The lamb vindaloo and garlic naan were both fantastic. Highly recommend.,Positive,5
+27,Little Tokyo,Japanese,"This place is a hidden gem! The sushi is fresh and delicious, and the staff is friendly and attentive. I love the cozy atmosphere of this restaurant. Highly recommend it!",Positive,5
+28,La Taqueria,Mexican,"The tacos here are amazing! They're packed with flavor and the tortillas are always fresh. The guacamole is a must-try too. The only downside is that it can get quite crowded during peak hours, but it's definitely worth the wait.",Positive,4
+29,The Burger Joint,American,"This place serves some of the best burgers in town! The meat is juicy and flavorful, and the toppings are always fresh. The fries are also great. The only drawback is that the prices are a bit on the high side, but it's worth it for the quality.",Positive,4
+30,La Pizzeria,Italian,"The pizza here is top-notch! The crust is crispy and the toppings are always fresh and flavorful. The staff is friendly and the prices are reasonable. The only downside is that the restaurant can get quite noisy during peak hours, but it's still a great choice.",Positive,5
+31,Curry House,Indian,"The curries here are always rich and delicious, and the naan bread is a must-try. The staff is friendly and the prices are reasonable. The only downside is that the restaurant can get quite busy, so be prepared to wait for a table during peak hours.",Positive,4
+32,Le French Bistro,French,"This place is a hidden gem! The atmosphere is cozy and romantic, and the food is absolutely delicious. The escargots are a must-try, and the steak frites is cooked to perfection. Highly recommend it for a special occasion or a date night.",Positive,5
+33,Thai Garden,Thai,The pad thai here is one of the best I've ever had! The flavors are perfectly balanced and the noodles are cooked just right. The staff is friendly and the prices are reasonable. The only downside is that the restaurant can get quite noisy during peak hours.,Positive,5
+34,Taiko Sushi,Japanese,"The sushi here is always fresh and delicious! The rolls are creatively presented and the staff is friendly and attentive. The only drawback is that the prices are a bit on the high side, but it's worth it for the quality. Highly recommend it for sushi lovers.",Positive,4
+35,The Pasta Place,Italian,"The pasta here is cooked to perfection! The sauces are flavorful and the portions are generous. The staff is friendly and the prices are reasonable. The only downside is that the restaurant can get quite crowded, so be prepared to wait for a table during peak hours.",Positive,4
+36,The Grill House,American,"The steaks here are always cooked to perfection! The meat is juicy and flavorful, and the sides are always delicious. The staff is friendly and the prices are reasonable. The only downside is that the restaurant can get quite noisy during peak hours, but it's still worth a visit.",Positive,5
+37,The Hungry Bear,American,"The burger and fries were delicious, but the service was slow.",Neutral,3
+38,Noodle Heaven,Chinese,The noodles were perfectly cooked and the sauce was flavorful. I highly recommend the pork dumplings.,Positive,5
+39,La Trattoria,Italian,"The lasagna was a bit too salty for my taste, but the tiramisu was amazing.",Neutral,3
+40,The Green Table,Vegetarian,"The vegan burger was surprisingly tasty, and the fresh juices were refreshing.",Positive,4
+41,Sushi Palace,Japanese,"The sushi was good, but the portions were a bit small for the price.",Neutral,3
+42,El Mariachi,Mexican,The tacos al pastor were delicious and authentic. The margaritas were also top-notch.,Positive,5
+43,Spice Bazaar,Indian,"The chicken tikka masala was spicy and flavorful. The naan was a bit too dry, though.",Positive,4
+44,Le Croissant,French,"The croissants were flaky and buttery, and the coffee was strong and aromatic.",Positive,5
+45,Thai Garden,Thai,"The pad thai was a bit too sweet for my liking, but the green curry was perfect.",Positive,4
+46,The Rusty Spoon,Modern European,"The food was beautifully presented, but the flavors were a bit underwhelming.",Neutral,3
+47,The Red Lion,British,"The fish and chips were crispy and delicious, and the service was friendly and attentive.",Positive,5
+48,Sabor Latino,Latin American,"The empanadas were tasty and filling, and the live music added to the festive atmosphere.",Positive,4
+49,Sakura Garden,Japanese,"The sushi rolls were creative and delicious, and the miso soup was the perfect appetizer.",Positive,5
+50,Pizza Amore,Italian,"The pizza was cooked to perfection, and the garlic knots were a tasty addition.",Positive,4
+51,Curry House,Indian,"The chicken korma was creamy and flavorful, and the garlic naan was the perfect accompaniment.",Positive,5
+52,The Blue Crab,Seafood,"The crab legs were fresh and flavorful, and the lobster bisque was rich and creamy.",Positive,5
+53,Casa Mia,Italian,"The spaghetti carbonara was delicious and authentic, and the service was impeccable.",Positive,5
+54,The Red Pepper,Mexican,"The nachos were piled high with toppings and full of flavor, but the service was a bit slow.",Positive,4
+55,The Golden Wok,Chinese,"The hot and sour soup was the perfect starter, and the stir-fried vegetables were fresh and crunchy.",Neutral,3
+56,The Spicy Bite,Indian,"I had the pleasure of dining at The Spicy Bite last night and I must say, I was blown away. The flavors were exquisite and the presentation was beautiful. The service was also excellent, with our server being attentive and knowledgeable about the menu. I would highly recommend this restaurant to anyone looking for authentic Indian cuisine.",Positive,5
+57,Sushi Station,Japanese,"Sushi Station is hands down the best sushi place in town. The fish is always fresh and the rolls are expertly crafted. I particularly love their specialty rolls, which are always creative and delicious. The atmosphere is also great, with a cozy and intimate feel. Highly recommend!",Positive,5
+58,The French Connection,French,"The French Connection is a fantastic French restaurant with a great atmosphere. The food is absolutely delicious and the service is top-notch. I particularly love their escargot, which is the best I've ever had. The only downside is that it can be a bit pricey, but it's worth it for a special occasion.",Positive,4
+59,Seoul Food,Korean,"I had a wonderful experience at Seoul Food. The food was amazing - fresh, flavorful, and perfectly cooked. The service was also excellent, with our server being attentive and friendly. I particularly enjoyed the bibimbap and the Korean fried chicken. Highly recommend!",Positive,5
+60,La Dolce Vita,Italian,"La Dolce Vita is a wonderful Italian restaurant with amazing food and service. The pasta dishes are particularly delicious, with perfectly cooked noodles and flavorful sauces. The tiramisu is also a must-try. The only downside is that it can get a bit noisy during peak hours, but it's worth it for the food.",Positive,4
+61,Bao Bao,Chinese,"Bao Bao is hands down the best Chinese restaurant in town. The food is always fresh and flavorful, with a great variety of dishes to choose from. I particularly love their dumplings and noodle dishes. The service is also excellent, with friendly and attentive staff. Highly recommend!",Positive,5
+62,The Rusty Fork,American,"The Rusty Fork is a great American restaurant with a cozy and inviting atmosphere. The food is always delicious and the portions are generous. I particularly love their burgers, which are always cooked to perfection. The service is also excellent, with friendly and attentive staff. Highly recommend!",Positive,4
+63,The Vegan Spot,Vegan,"The Vegan Spot is an amazing vegan restaurant with delicious food and great service. The menu has a great variety of options, from burgers to tacos to salads. I particularly love their buffalo cauliflower wings and their BBQ jackfruit sandwich. The staff is also very friendly and accommodating. Highly recommend!",Positive,5
+64,Pho King,Vietnamese,"Pho King is hands down the best Vietnamese restaurant in town. The pho is always delicious and flavorful, with a great variety of meats to choose from. I particularly love the rare beef and brisket. The service is also excellent, with friendly and attentive staff. Highly recommend!",Positive,5
+65,The Spice Room,Indian,The Spice Room is a hidden gem in the city. The food is always fresh and bursting with flavor. Highly recommend the biryani.,Positive,5
+66,La Cantina,Mexican,La Cantina has the best margaritas in town. The food is always hot and fresh. Highly recommend the enchiladas.,Positive,4
+67,The Greasy Spoon,American,The Greasy Spoon has a great breakfast menu. The pancakes are fluffy and the bacon is crispy. Highly recommend.,Positive,4
+68,Mama's Italian Kitchen,Italian,Mama's Italian Kitchen has some of the best pasta dishes around. The sauces are homemade and full of flavor.,Positive,5
+69,Sushi Samurai,Japanese,Sushi Samurai is my go-to spot for sushi. The fish is always fresh and the rolls are creative and delicious.,Positive,5
+70,The French Quarter,French,The French Quarter is a lovely bistro with authentic French cuisine. The atmosphere is cozy and romantic.,Positive,5
+71,The Greek Spot,Greek,The Greek Spot has some of the best gyro sandwiches around. The meat is always tender and the tzatziki sauce is delicious.,Positive,4
+72,Curry House,Indian,Curry House is my favorite Indian restaurant. The curry dishes are full of flavor and the naan is always fresh and hot.,Positive,5
+73,El Rancho,Mexican,El Rancho is a great spot for traditional Mexican food. The tacos are always fresh and the salsa is delicious.,Positive,4
+74,The Red House,American,The Red House has great burgers and fries. The meat is always juicy and the toppings are fresh.,Positive,4
+75,Tokyo Nights,Japanese,Tokyo Nights is a fantastic spot for sushi. The rolls are always creative and the fish is fresh. Highly recommend.,Positive,5
+76,The Italian Table,Italian,The Italian Table has some of the best homemade pasta dishes in the city. The sauces are delicious and full of flavor.,Positive,5
+77,The Hummus House,Mediterranean,The Hummus House has the best hummus in town. The pita bread is always warm and the falafel is crispy and delicious.,Positive,4
+78,The Curry House,Indian,The Curry House is a great spot for curry dishes. The spice level is just right and the flavors are amazing.,Positive,4
+79,La Fiesta,Mexican,La Fiesta has a great atmosphere and amazing food. Highly recommend the fajitas and margaritas.,Positive,5
+80,The Grill Room,American,The Grill Room has some of the best steak in the city. The meat is always cooked perfectly and the sides are delicious.,Positive,5
+81,Sake House,Japanese,Sake House is a great spot for sushi and Japanese cuisine. The rolls are always creative and the atmosphere is great.,Positive,4
+82,The Blue Door,Italian,"I visited The Blue Door on a recommendation from a friend and I was not disappointed! The ambiance was cozy and welcoming, and the staff was friendly and attentive. The pasta dish I had was cooked to perfection and the wine selection was top-notch. Highly recommend this spot for anyone looking for a great Italian meal.",Positive,5
+83,La Pizzeria,Italian,"La Pizzeria has the best pizza in town, hands down. The crust is crispy and the toppings are always fresh and flavorful. The garlic knots are a must-try, too! The only downside is that it can get pretty crowded, so be prepared to wait for a table.",Positive,4
+84,Sushi Spot,Japanese,"Sushi Spot is my go-to spot for sushi in the area. The sushi rolls are always fresh and creative, and the staff is friendly and accommodating. I highly recommend the dragon roll and the spicy tuna roll.",Positive,5
+85,Golden Wok,Chinese,"Golden Wok is a hidden gem in the city. The food is always hot and fresh, and the portions are generous. The sesame chicken and beef with broccoli are my favorites. The staff is friendly and welcoming, and the prices are very reasonable.",Positive,4
+86,The Burger Joint,American,"The Burger Joint serves up some of the juiciest, tastiest burgers I've ever had. The buns are always fresh and the toppings are plentiful. The fries are crispy and delicious, too. The only downside is that it can get pretty busy during peak hours, so plan accordingly.",Positive,5
+87,Spice Route,Indian,"Spice Route has some of the best Indian food in the city. The chicken tikka masala is a must-try, and the garlic naan is to die for. The staff is knowledgeable about the menu and can make great recommendations. The decor is beautiful and adds to the overall dining experience.",Positive,5
+88,The Fish Market,Seafood,"The Fish Market is a great spot for seafood lovers. The fish is always fresh and perfectly cooked, and the sides are always delicious. The staff is knowledgeable about the different types of fish and can make great recommendations. The prices are a bit steep, but worth it for the quality of the food.",Positive,4
+89,The Mediterranean Cafe,Mediterranean,"The Mediterranean Cafe has some of the best falafel I've ever had. The hummus is also delicious and creamy, and the pita bread is always warm and fresh. The staff is friendly and welcoming, and the prices are very reasonable. Highly recommend this spot for anyone looking for Mediterranean food.",Positive,5
+90,Tokyo Ramen,Japanese,"Tokyo Ramen serves up some of the best ramen in town. The broth is rich and flavorful, and the noodles are perfectly cooked. The staff is friendly and attentive, and the prices are very reasonable. Highly recommend this spot for anyone looking for a great bowl of ramen.",Positive,5
+91,The Pasta House,Italian,"The Pasta House has a cozy, rustic atmosphere that sets the stage for a delicious Italian meal. The pasta dishes are all cooked to perfection and the sauces are so delicious.",Positive,5
+92,Chez Pierre,French,"Chez Pierre is a must-visit for anyone looking for classic French cuisine. The atmosphere is elegant and romantic, and the food is superb. I highly recommend the beef bourguignon.",Positive,5
+93,Saffron,Indian,"Saffron serves up some of the best Indian food I've ever had. The spices are perfectly balanced, and the naan is always fresh and delicious. Make sure to try the chicken tikka masala!",Positive,4
+94,The Yellow House,American,The Yellow House has a great atmosphere and the food is fantastic. I had the mac and cheese and it was creamy and delicious. The staff were friendly and attentive. Highly recommended.,Positive,5
+95,Koyama,Japanese,Koyama is the best sushi restaurant in town. The fish is always fresh and the rolls are beautifully presented. I especially love the salmon nigiri. Make sure to try the green tea ice cream for dessert.,Positive,5
+96,La Bella Italia,Italian,La Bella Italia is a cozy and authentic Italian restaurant. The pasta dishes are amazing and the tiramisu is to die for. The staff are welcoming and make you feel right at home.,Positive,4
+97,The Spice Room,Indian,"The Spice Room has a fantastic range of dishes, from the classic curries to more unique and creative options. I highly recommend the butter chicken and the samosas. Great service too.",Positive,4
+98,The Rusty Anchor,Seafood,The Rusty Anchor is a great seafood restaurant with a beautiful view of the ocean. The crab cakes are delicious and the lobster tail is perfectly cooked. Prices are reasonable too.,Positive,4
+99,Mama's Kitchen,Southern,"Mama's Kitchen is the perfect spot for some good old fashioned southern cooking. The fried chicken is crispy and juicy, and the biscuits are out of this world. Don't forget the sweet tea!",Positive,5
+100,Little Italy,Italian,"Little Italy is a charming and cozy Italian restaurant with great food and service. The spaghetti carbonara is a must-try, and the tiramisu is the best I've had outside of Italy.",Positive,5
+101,The Green Garden,Vegetarian,The Green Garden has an amazing selection of vegetarian dishes that are full of flavor and satisfying. I especially love the lentil soup and the falafel platter. Highly recommended.,Positive,4
+102,The Steakhouse,Steakhouse,"The Steakhouse is the perfect spot for a special occasion. The steaks are cooked to perfection, and the sides are just as delicious. The service is impeccable and the atmosphere is upscale.",Positive,5
+103,Thai Garden,Thai,"Thai Garden has some of the most authentic and delicious Thai food around. The pad thai is always a hit, and the green curry is a personal favorite. The staff are friendly and welcoming.",Positive,4
+104,The Cheesecake Factory,American,"The Cheesecake Factory never disappoints. The menu has something for everyone, and the portions are huge.",Positive,4
+105,Bella Italia,Italian,"I had an incredible experience at Bella Italia. The food was top-notch and the service was impeccable. I would highly recommend the lobster linguine and the tiramisu for dessert. It's a bit pricey, but definitely worth it for a special occasion.",Positive,5
+106,La Tasca,Spanish,"La Tasca is a must-visit for any tapas lover. The small plates are perfect for sharing and trying a variety of dishes. The sangria is also delicious and pairs perfectly with the food. The ambiance is cozy and inviting, and the service is always friendly. Don't leave without trying the gambas al ajillo and the tortilla española.",Positive,5
+107,The Cheesecake Factory,American,"The Cheesecake Factory never disappoints! The menu is huge, so there's something for everyone. The portions are huge, so be prepared to take some home. I always make sure to save room for dessert - the cheesecake is amazing! The service is always great, and the ambiance is cozy and comfortable. Highly recommend the avocado egg rolls and the chicken madeira.",Positive,5
+108,Red Lobster,Seafood,"I had a great experience at Red Lobster. The seafood was fresh and delicious, and the service was friendly and attentive. I recommend the Ultimate Feast for a seafood lover's dream meal. The cheddar bay biscuits are also a must-try. The prices are reasonable for the quality and quantity of food.",Positive,4
+109,Olive Garden,Italian,"Olive Garden is a great choice for a casual Italian meal. The breadsticks are always hot and fresh, and the salad is delicious. I recommend the chicken alfredo - it's a classic for a reason. The prices are very reasonable, and the service is always friendly. The ambiance is cozy and inviting.",Positive,4
+110,TGI Fridays,American,TGI Fridays is a fun and casual spot for a meal or drinks with friends. The menu is diverse and has something for everyone. I recommend the loaded potato skins and the sizzling chicken and shrimp. The drinks are also great - don't miss the strawberry margarita. The service is always friendly and the ambiance is lively.,Positive,4
+111,Ruby Tuesday,American,"Ruby Tuesday is a solid choice for a casual meal. The menu has a good variety of options, and the prices are reasonable. The service is always friendly and attentive. I recommend the crispy chicken mac and cheese and the ribs. The ambiance is cozy and inviting.",Positive,4
+112,The Pizzeria,Italian,"The Pizzeria is a great spot for pizza lovers. The crust is thin and crispy, and the sauce has a perfect balance of sweetness and tanginess. The toppings are fresh and flavorful. Highly recommend!",Positive,5
+113,The Sushi Place,Japanese,The Sushi Place is a must-visit for sushi lovers. The sushi is fresh and expertly prepared. The service is attentive and friendly. Prices are reasonable. Highly recommend!,Positive,5
+114,The Indian Bistro,Indian,The Indian Bistro has amazing food and excellent service. The spices and flavors are spot on. The portions are generous and the prices are reasonable. Highly recommend the butter chicken!,Positive,5
+115,The Seafood Shack,Seafood,The Seafood Shack has some of the best seafood in town. The shrimp cocktail is a must-try. The fish tacos are also delicious. The service is friendly and the prices are reasonable. Highly recommend!,Positive,5
+116,The Steakhouse,Steakhouse,The Steakhouse is a great spot for a special occasion. The steaks are cooked to perfection and the sides are delicious. The service is attentive and the atmosphere is cozy. Highly recommend!,Positive,4
+117,The Vegetarian Spot,Vegetarian,The Vegetarian Spot is a great place for vegetarians and non-vegetarians alike. The food is flavorful and creative. The service is friendly and the prices are reasonable. Highly recommend the veggie burger!,Positive,4
+118,The BBQ Joint,Barbecue,The BBQ Joint has some of the best barbecue in town. The ribs are fall-off-the-bone tender and the pulled pork is flavorful. The sides are also delicious. The service is friendly. Highly recommend!,Positive,4
+119,The French Cafe,French,"The French Cafe is a charming spot for brunch or a romantic dinner. The croissants are flaky and buttery, and the crepes are delicious. The service is attentive and the atmosphere is cozy. Highly recommend!",Positive,4
+120,The Thai Kitchen,Thai,The Thai Kitchen has some of the best Thai food in town. The green curry is a must-try. The service is friendly and the prices are reasonable. Highly recommend!,Positive,4
+121,The Greek Taverna,Greek,The Greek Taverna has some of the best Greek food in town. The gyro is a must-try. The service is friendly and the atmosphere is cozy. Highly recommend!,Positive,4
+122,The Tapas Bar,Spanish,The Tapas Bar is a great spot for tapas and sangria. The patatas bravas are delicious and the jamon serrano is a must-try. The service is friendly and the atmosphere is lively. Highly recommend!,Positive,4
+123,The Pho House,Vietnamese,The Pho House has some of the best pho in town. The broth is flavorful and the noodles are perfectly cooked. The service is friendly and the prices are reasonable. Highly recommend!,Positive,4
+124,The Rusty Spoon,American,"I had the most amazing dining experience at The Rusty Spoon. The food was delicious and perfectly cooked. The service was great, and the atmosphere was lovely. Highly recommend!",Positive,5
+125,Saffron Indian Food,Indian,I recently tried Saffron Indian Food and was blown away by the flavors! The dishes were all so tasty and had just the right amount of spice. Can't wait to go back again!,Positive,4
+126,Bella Italia,Italian,"Bella Italia is a great spot for a date night. The food is authentic and delicious, and the atmosphere is cozy and romantic. Highly recommend the lasagna!",Positive,5
+127,Sushi Nami Royale,Japanese,"I went to Sushi Nami Royale for dinner and had a wonderful experience. The sushi was fresh and delicious, and the staff was friendly and attentive. Highly recommend!",Positive,4
+128,The Golden Chick,American,"The Golden Chick is a great spot for some classic comfort food. The fried chicken is crispy and juicy, and the sides are all delicious. Highly recommend the mashed potatoes!",Positive,4
+129,Cafe Istanbul,Mediterranean,"Cafe Istanbul has some of the best Mediterranean food I've ever had! The falafel is crispy and flavorful, and the hummus is so creamy. Can't wait to come back again!",Positive,5
+130,Noodle Bowl,Asian,"Noodle Bowl has a great selection of Asian dishes, and everything I've tried there has been delicious. The pho is especially tasty and perfect for a cold day. Highly recommend!",Positive,4
+131,La Petite Creperie,French,"La Petite Creperie is a lovely little spot for a sweet or savory crepe. The crepes are always fresh and perfectly cooked, and the Nutella and banana crepe is a personal favorite!",Positive,5
+132,The Cheesecake Shop,Dessert/Bakery,"The Cheesecake Shop has the best cheesecake in town, hands down. The flavors are all so rich and creamy, and the crust is perfect. Highly recommend the raspberry swirl!",Positive,5
+133,The Burger Joint,American,"The Burger Joint is a must-visit for any burger lover. The burgers are juicy and flavorful, and the toppings are all so tasty. Highly recommend the bacon cheeseburger!",Positive,4
+134,Curry House,Indian,"Curry House has some of the best Indian food I've ever tasted. The naan bread is always so fluffy and delicious, and the curries are full of flavor. Highly recommend the lamb vindaloo!",Positive,5
+135,Cafe Latte,Coffee/Tea,"Cafe Latte is a great spot for a cup of coffee and a pastry. The coffee is always fresh and hot, and the pastries are all so tasty. Highly recommend the blueberry scone!",Positive,4
+136,Tokyo Ramen,Japanese,Tokyo Ramen is a great spot for a warm and comforting bowl of ramen. The broth is flavorful and the noodles are always perfectly cooked. Highly recommend the miso soup. ,Positive,5
+137,The Mediterranean,Mediterranean,"I visited this restaurant last night and had a great experience! The staff was very friendly and accommodating, and the food was delicious. I particularly enjoyed the lamb kebab and the hummus dip. The atmosphere was cozy and inviting, and I felt very comfortable throughout my meal. I would definitely recommend this restaurant to anyone looking for a delicious Mediterranean meal!",Positive,5
+138,The Peking Duck,Chinese,"This restaurant was a bit of a disappointment. While the Peking duck was good, the rest of the dishes were quite bland and unimpressive. The service was also lackluster, with our waiter seeming disinterested in our dining experience. The atmosphere was nice, but overall I was not very satisfied with my meal. I may give it another try in the future, but for now, there are other Chinese restaurants in the area that I would rather visit.",Negative,2
+139,The Cheesesteak,American,"This restaurant is a must-visit for anyone in the area! The cheesesteaks are absolutely delicious, with juicy steak and gooey cheese. I also tried the onion rings, which were crispy and flavorful. The atmosphere is casual and fun, with friendly staff and plenty of seating. I would highly recommend this restaurant to anyone looking for a classic American meal!",Positive,5
+140,The Sushi Bar,Japanese,"I have mixed feelings about this restaurant. On one hand, the sushi was quite good and the presentation was beautiful. On the other hand, the service was slow and unresponsive, and the atmosphere was a bit too dimly lit for my taste. I would recommend this restaurant for the sushi, but be prepared to wait a bit and bring a flashlight if you want to read the menu!",Neutral,3
+141,The Burger Joint,American,"This restaurant was a pleasant surprise! The burgers were juicy and flavorful, with plenty of toppings to choose from. I also tried the sweet potato fries, which were crispy and delicious. The service was friendly and attentive, and the atmosphere was casual and inviting. I would definitely recommend this restaurant to anyone looking for a tasty burger and fries!",Positive,4
+142,The Italian Kitchen,Italian,"I had a wonderful meal at this restaurant last night! The pasta was perfectly cooked and the sauce was flavorful without being overpowering. I also enjoyed the garlic bread and the tiramisu for dessert. The service was attentive and friendly, and the atmosphere was cozy and romantic. I would highly recommend this restaurant for a date night or a special occasion!",Positive,5
+143,The Spice Room,Indian,"The Spice Room is a must-visit restaurant for any lover of Indian cuisine. The service is excellent and the food is consistently amazing. I highly recommend trying the chicken tikka masala and the lamb vindaloo. Both are packed with flavor and perfectly spiced. The naan bread is also exceptional, and pairs perfectly with the curries. Overall, a wonderful dining experience.",Positive,5
+144,La Trattoria,Italian,"La Trattoria is a great spot for a romantic dinner or a night out with friends. The atmosphere is cozy and inviting, and the food is fantastic. I highly recommend the spaghetti carbonara and the margherita pizza. The portions are generous and the flavors are spot on. The wine list is also impressive, with a great selection of Italian wines. The service can be a bit slow, but it's worth the wait for the quality of the food.",Positive,4
+145,Bao House,Chinese,"Bao House is a hidden gem of a restaurant. The bao buns are incredible, with a variety of delicious fillings to choose from. I highly recommend the pork belly and the crispy chicken. The noodles are also fantastic, with the dan dan noodles being a personal favorite. The service is friendly and attentive, and the prices are very reasonable. If you're a fan of Chinese food, you won't be disappointed with a visit to Bao House.",Positive,5
+146,La Cantina,Mexican,"La Cantina is a fun and lively spot for Mexican food. The guacamole is a must-try, and the tacos are fantastic as well. I highly recommend the carne asada and the fish tacos. The margaritas are also excellent, with a great selection of flavors to choose from. The service can be a bit slow when it's busy, but the staff is always friendly and welcoming. Overall, a great spot for a casual night out with friends.",Positive,4
+147,The Garden Terrace,International,"The Garden Terrace is a beautiful spot for a special occasion or a romantic dinner. The views are stunning, and the food is equally impressive. I highly recommend the seafood platter and the steak. Both dishes are cooked to perfection and full of flavor. The wine list is extensive, with a great selection of international wines. The service is attentive without being overbearing, and the atmosphere is serene and relaxing. A bit on the pricier side, but worth it for the quality of the experience.",Positive,5
+148,Saffron,Indian,"Saffron is a fantastic spot for Indian food. The restaurant is small and cozy, and the service is always friendly and attentive. The food is incredible, with a wide variety of dishes to choose from. I highly recommend the butter chicken and the lamb rogan josh. The naan bread is also exceptional, and pairs perfectly with the curries. The prices are very reasonable for the quality of the food",Positive,5
+149,The Spice Room,Indian,"The Spice Room serves the best Indian food in the city! The flavors in the butter chicken were out of this world, and the naan bread was fresh and fluffy. The service was friendly and attentive, making our dining experience even more enjoyable. I highly recommend this restaurant to anyone who loves authentic Indian cuisine!",Positive,5
+150,Sushi Sama,Japanese,"Sushi Sama is a hidden gem for sushi lovers! The rolls were fresh and the fish was of excellent quality. The ambiance was cozy and intimate, perfect for a romantic date night. The prices were reasonable for the quality of the food, and the service was top-notch. The restaurant also has a great selection of sake to pair with your meal. I will definitely be returning to Sushi Sama!",Positive,5
+151,The Crab Shack,Seafood,"The Crab Shack is a seafood lover's paradise! The crab legs were huge and meaty, and the garlic butter sauce was so flavorful. The service was friendly and attentive, and the outdoor seating area had a great view of the water. The prices were a bit high, but definitely worth it for the quality of the food. I highly recommend this restaurant for anyone looking for a seafood feast!",Positive,4
+152,La Cantina,Mexican,"La Cantina is a fantastic Mexican restaurant with a great atmosphere. The chips and salsa were fresh and flavorful, and the margaritas were perfectly mixed. The tacos were authentic and delicious, and the service was prompt and friendly. The prices were reasonable for the quality of the food and drinks. I highly recommend La Cantina for anyone looking for a great Mexican dining experience!",Positive,5
+153,The Steakhouse,Steakhouse,"The Steakhouse is the best place to go for a steak in the city! The filet mignon was cooked to perfection, and the garlic mashed potatoes were a great complement to the meal. The service was excellent, and the atmosphere was sophisticated and upscale. The prices were a bit high, but definitely worth it for the quality of the food and service. I highly recommend The Steakhouse for anyone looking for a great steakhouse experience!",Positive,5
+154,Saffron,Indian,"Saffron is a fantastic Indian restaurant with a great menu. The chicken tikka masala was creamy and flavorful, and the garlic naan was perfectly cooked. The service was prompt and friendly, and the atmosphere was cozy and comfortable. The prices were reasonable for the quality of the food and service. I highly recommend Saffron for anyone looking for a great Indian dining experience!",Positive,4
+155,The Burger Joint,American,"The Burger Joint is the perfect place to go for a juicy burger and fries. The beef patty was perfectly cooked and seasoned, and the fries were crispy and golden. The service was friendly and efficient, and the prices were reasonable for the quality of the food. The restaurant also has a great selection of craft beers to choose from. I highly recommend this place.",Positive,5
+156,The Garden Cafe,American,The Garden Cafe is a great spot for breakfast or lunch. The food is always fresh and the service is friendly and efficient.,Positive,4
+157,Bella Italia,Italian,Bella Italia is the perfect place for a romantic date night. The pasta dishes are delicious and the atmosphere is cozy.,Positive,5
+158,Sushi Spot,Japanese,Sushi Spot has some of the best sushi I've ever had. The fish is always fresh and the chefs are true masters of their craft.,Positive,5
+159,La Fiesta,Mexican,La Fiesta is the best Mexican restaurant in town. The guacamole is amazing and the margaritas are strong and delicious.,Positive,4
+160,The Steakhouse,Steakhouse,The Steakhouse is the perfect spot for a special occasion. The steaks are always cooked to perfection and the sides are great.,Positive,5
+161,India Palace,Indian,India Palace is my go-to spot for authentic Indian cuisine. The curries are flavorful and the naan is always fresh and warm.,Positive,4
+162,Thai Spice,Thai,Thai Spice has some of the best Pad Thai I've ever had. The spices are perfectly balanced and the noodles are cooked just right.,Positive,5
+163,The Bistro,French,The Bistro is a charming little spot for a romantic dinner. The escargot is a must-try and the wine list is impressive.,Positive,4
+164,The Sushi Bar,Japanese,The Sushi Bar has some of the freshest sushi in town. The prices are reasonable and the service is always friendly.,Positive,4
+165,Mama Mia,Italian,Mama Mia is a family-friendly Italian spot with great pizza and pasta dishes. The portions are generous and the prices are reasonable.,Positive,4
+166,The Crab Shack,Seafood,The Crab Shack is the perfect spot for seafood lovers. The crab legs are delicious and the steamed shrimp is always fresh.,Positive,5
+167,The Greek Taverna,Greek,The Greek Taverna has some of the best Mediterranean food in town. The gyro is delicious and the hummus is to die for.,Positive,4
+168,La Pizzeria,Italian,La Pizzeria is a great spot for a casual dinner. The pizzas are always fresh and delicious and the prices are reasonable.,Positive,4
+169,Spice Route,Indian,Spice Route is the perfect spot for Indian food lovers. The chicken tikka masala is amazing and the naan is always fresh.,Positive,5
+170,The Fish Market,Seafood,The Fish Market is the best seafood spot in town. The oysters are always fresh and the lobster is cooked to perfection.,Positive,5
+171,Thai Orchid,Thai,Thai Orchid has some of the best Tom Yum soup I've ever had. The service is friendly and the prices are reasonable.,Positive,4
+172,Spice House,Indian,I visited Spice House for lunch and was impressed with the food. The chicken tikka masala was flavorful and tender. The naan bread was freshly baked and delicious. I would definitely recommend this restaurant.,Positive,4
+173,La Taqueria,Mexican,I love La Taqueria! The tacos are delicious and the salsa is amazing. The prices are also very reasonable. I would highly recommend this place to anyone looking for great Mexican food.,Positive,5
+174,The Olive Tree,Mediterranean,The Olive Tree is one of my favorite restaurants. The hummus and pita bread are always fresh and the lamb skewers are so juicy and flavorful. The atmosphere is cozy and the service is great. Highly recommend.,Positive,5
+175,The Red Lion,British,"I had high hopes for The Red Lion, but unfortunately the food fell short. The fish and chips were overcooked and greasy, and the pie was dry. The atmosphere was nice though, and the service was friendly.",Negative,2
+176,Sushi Sake,Japanese,Sushi Sake is a great spot for fresh and delicious sushi. The rolls are always made to order and the fish is so flavorful. The service is also great and the prices are reasonable. Highly recommend.,Positive,4
+177,The Blue Crab,Seafood,I had a great experience at The Blue Crab. The crab cakes were some of the best I've ever had and the seafood chowder was delicious. The service was excellent as well. Highly recommend.,Positive,5
+178,The Vegan Spot,Vegan,The Vegan Spot is a great place for a healthy and delicious meal. The avocado toast is my favorite and the smoothies are so refreshing. The service is always friendly and welcoming. Highly recommend.,Positive,4
+179,Chez Pierre,French,"Chez Pierre is a hidden gem. The escargot was delicious and the steak frites were cooked to perfection. The atmosphere is cozy and romantic, perfect for a date night. Highly recommend.",Positive,5
+180,The Spice Route,Indian,The Spice Route is one of my favorite Indian restaurants. The chicken tikka masala is so flavorful and the garlic naan bread is amazing. The service is always friendly and attentive. Highly recommend.,Positive,5
+181,La Pizzeria,Italian,La Pizzeria has the best pizza in town. The crust is crispy and the toppings are fresh and delicious. The atmosphere is cozy and the service is great. Highly recommend.,Positive,5
+182,The Green Garden,Vegetarian,The Green Garden is a great spot for vegetarian food. The falafel wrap is my favorite and the lentil soup is so hearty and delicious. The service is always friendly and the prices are reasonable. Highly recommend.,Positive,4
+183,The Butcher's Block,Steakhouse,The Butcher's Block has the best steak in town. The filet mignon was cooked to perfection and the garlic mashed potatoes were so creamy and delicious. The service was also excellent. Highly recommend.,Positive,5
+184,The Spice Room,Indian,"The food here is amazing! We ordered the chicken tikka masala and lamb vindaloo, and both were perfectly seasoned and cooked to perfection. The garlic naan was also some of the best I've had. The service was friendly and attentive, and the atmosphere was cozy and inviting. Would definitely recommend this place to anyone looking for delicious Indian food.",Positive,5
+185,La Cucina Italiana,Italian,"We had a great time at La Cucina Italiana. The food was delicious and the service was excellent. We started with the bruschetta which was perfectly toasted and topped with fresh tomatoes and basil. For our main course, we shared the lasagna and the spaghetti carbonara, both of which were perfectly cooked and full of flavor. We finished our meal with the tiramisu, which was the best I've ever had. The atmosphere was cozy and romantic, and we can't wait to come back.",Positive,5
+186,The Golden Wok,Chinese,"The Golden Wok is one of my favorite Chinese restaurants in town. The food is always fresh and delicious, and the service is excellent. I usually order the kung pao chicken or the beef and broccoli, but everything on the menu is great. The prices are very reasonable, and the atmosphere is casual and relaxed. Highly recommend!",Positive,4
+187,Sushi House,Japanese,"I've been coming to Sushi House for years, and it never disappoints. The sushi is always fresh and beautifully presented, and the service is top-notch. My favorites are the spicy tuna roll and the salmon sashimi, but everything on the menu is great. The atmosphere is modern and chic, and the prices are reasonable for the quality of the food. Highly recommend!",Positive,5
+188,La Brasserie,French,"My partner and I had a wonderful meal at La Brasserie. The service was attentive and friendly, and the food was outstanding. We started with the escargots, which were cooked to perfection in a delicious garlic butter sauce. For our main course, I had the steak frites and my partner had the coq au vin, both of which were cooked to perfection and full of flavor. We finished our meal with the crème brûlée, which was rich and creamy with the perfect crispy sugar topping. The atmosphere was cozy and romantic, and we can't wait to come back.",Positive,5
+189,Thai Orchid,Thai,"Thai Orchid is one of my favorite Thai restaurants in town. The food is always fresh and full of flavor, and the service is excellent. I usually order the pad thai or the green curry, but everything on the menu is great. The prices are reasonable, and the atmosphere is cozy and inviting. Highly recommend!",Positive,4
+190,The Rusty Spoon,American,"The Rusty Spoon is a great spot for American comfort food. The service is friendly and attentive, and the food is always delicious. I usually order the chicken and waffles or the meatloaf, both of which are cooked to perfection and full of flavor. The atmosphere is casual and laid-back, and the prices are reasonable for the quality of the food. Highly recommend!",Positive,4
+191,Sabor Latino,Latin American,"Sabor Latino is one of my favorite Latin American restaurants in town. The food is always fresh and full of flavor, and the service is excellent. I usually come here.",Positive,4
+192,The Blue Spoon,American,"The Blue Spoon has a nice atmosphere, but the food was just okay. I had the chicken sandwich, which was a bit dry and lacked flavor. The service was good though.",Neutral,3
+193,Mama's Italian Kitchen,Italian,"Mama's Italian Kitchen has great pasta dishes and the garlic bread is amazing. However, the service can be slow at times and the restaurant can get noisy during peak hours.",Positive,4
+194,The Rusty Spoon,American,I was really disappointed with The Rusty Spoon. The food was overpriced and not very tasty. The service was slow and the waiter seemed uninterested in helping us. I wouldn't recommend this place.,Negative,2
+195,Sushi House,Japanese,"The sushi at Sushi House is decent, but nothing special. The service can be hit or miss and the atmosphere is nothing to write home about. Overall, it's a decent spot for a quick sushi fix.",Neutral,3
+196,The Cozy Cafe,Breakfast,"The Cozy Cafe has a nice ambiance and the coffee is good, but the food is just average. The pancakes were a bit dry and the eggs were overcooked. The service was friendly though.",Neutral,3
+197,La Bella Vita,Italian,"La Bella Vita has a nice atmosphere and the service was good, but the food was just okay. I had the lasagna, which was a bit dry and lacked flavor. The tiramisu was good though.",Neutral,3
+198,The Greasy Spoon,Diner,The Greasy Spoon is not a place I would recommend. The food was greasy and not very appetizing. The service was slow and the waitress seemed uninterested in our table. I would suggest finding another diner to eat at.,Negative,1
+199,Bland Burger Joint,American,"The burgers at Bland Burger Joint are just that - bland. There's nothing special about them and they're overpriced for what you get. The fries were okay, but not enough to redeem the meal.",Negative,2
+200,The Spicy Noodle,Thai,"The Spicy Noodle lives up to its name - the food is incredibly spicy. If you're not a fan of heat, I would stay away from this place. The service was okay, but not great.",Negative,2
+201,The Frozen Yogurt Shop,Dessert,"The Frozen Yogurt Shop has a good selection of toppings, but the frozen yogurt itself was just average. The service was good though, and the shop is a nice place to hang out with friends.",Neutral,3
+202,The Fancy French Bistro,French,"The Fancy French Bistro is overpriced and the portions are small. The food was decent, but not worth the high price tag. The service was good though.",Negative,2
+203,The Authentic Indian Restaurant,Indian,"The Authentic Indian Restaurant has good food, but the service can be slow at times. The ambiance is nothing special, but the flavors in the dishes are really good.",Positive,4
+204,The Mexican Cantina,Mexican,"The Mexican Cantina has great margaritas and the chips and salsa are addictive. However, the food can be hit or miss and the service can be slow during busy hours.",Positive,4
+205,La Trattoria,Italian,The pasta was perfectly cooked and the sauce had just the right amount of spice. I highly recommend this restaurant!,Positive,5
+206,The Steakhouse,American,The steak was overcooked and dry. The service was slow and the prices were too high for the quality of the food. Disappointing experience.,Negative,2
+207,Sushi Heaven,Japanese,"The sushi rolls were fresh and flavorful. The miso soup was a bit salty for my taste, but overall it was a great meal.",Positive,4
+208,Curry House,Indian,The chicken tikka masala was delicious and had just the right amount of spice. The naan bread was also very good. I will definitely be coming back here!,Positive,5
+209,The Burger Joint,American,The burgers were huge and juicy. The fries were crispy and seasoned perfectly. Highly recommend this spot for a casual meal.,Positive,4
+210,Tacos y Tequila,Mexican,"The margaritas were delicious and the tacos were packed with flavor. The only downside was the service, which was slow and inattentive.",Neutral,3
+211,Bistro 21,French,The steak frites were cooked to perfection and the escargot was delicious. The service was impeccable and the atmosphere was cozy and inviting. A must-visit for French food lovers.,Positive,5
+212,Thai Palace,Thai,The Pad Thai was a bit bland and lacking in flavor. The service was also slow and inattentive. Disappointing experience overall.,Negative,2
+213,The Seafood Shack,Seafood,"The oysters were fresh and delicious, and the lobster bisque was out of this world. The prices were a bit steep, but the quality of the food was worth it.",Positive,4
+214,Spice of India,Indian,"The lamb vindaloo was spicy and flavorful. The garlic naan was also very good. The service was a bit slow, but overall it was a great meal.",Positive,4
+215,Sushi Palace,Japanese,"The sushi rolls were fresh and expertly prepared. The prices were a bit steep, but the quality of the food was worth it. Highly recommend.",Positive,4
+216,The Grill House,American,"The steak was cooked to perfection and the garlic mashed potatoes were heavenly. The only downside was the noise level, which was quite high.",Positive,4
+217,La Piazza,Italian,"The pizza was delicious and the pasta was cooked al dente. The service was a bit slow, but overall it was a great meal.",Positive,4
+218,The Crab Shack,Seafood,"The crab legs were huge and juicy, and the garlic butter sauce was delicious. Highly recommend this spot for seafood lovers.",Positive,5
+219,The Noodle House,Asian,"The ramen was a bit too salty for my taste, but the dumplings were delicious. The service was also slow and inattentive.",Negative,2
+220,The Vegetarian Spot,Vegetarian,The falafel wrap was packed with flavor and the hummus was creamy and delicious. Highly recommend this spot for vegetarians and non-vegetarians alike.,Positive,5
+221,The Fork,Italian,"The atmosphere was great and the service was good, but the food was just average. I had higher expectations based on the reviews I read.",Neutral,3
+222,Saffron Grill,Indian,This restaurant had excellent food and great service. The spices and flavors in the dishes were perfect. I would definitely recommend this restaurant.,Positive,5
+223,The Pasta House,Italian,I had a terrible experience at this restaurant. The service was slow and the food was cold when it finally arrived. I would not recommend this place.,Negative,1
+224,The Fisherman's Wharf,Seafood,The view from this restaurant was breathtaking. The seafood was fresh and delicious. The service was excellent.,Positive,4
+225,Spice Bazaar,Indian,"The food at this restaurant was average, but the service was great. Our waiter was very friendly and accommodating.",Neutral,3
+226,The Chophouse,Steakhouse,The steak at this restaurant was perfectly cooked and seasoned. The sides were also delicious. The service was attentive and friendly.,Positive,5
+227,The Curry House,Indian,"The food at this restaurant was very spicy, but still enjoyable. The service was fast and friendly.",Positive,4
+228,The Blue Crab,Seafood,I had a terrible experience at this restaurant. The service was slow and the food was overcooked. I would not recommend this place.,Negative,2
+229,The Rustic Kitchen,Italian,"The atmosphere at this restaurant was cozy and inviting. The food was good, but nothing to write home about. The service was friendly.",Neutral,3
+230,The Burger Joint,American,The burgers at this restaurant were delicious and juicy. The fries were also great. The service was quick and friendly.,Positive,4
+231,The Olive Garden,Italian,The food at this restaurant was mediocre at best. The service was slow and inattentive. I would not recommend this place.,Negative,2
+232,The Sushi Spot,Japanese,The sushi at this restaurant was fresh and tasty. The service was attentive and friendly. I would definitely go back.,Positive,5
+233,The BBQ Shack,American,The ribs at this restaurant were fall-off-the-bone tender and the sauce was delicious. The service was also excellent.,Positive,5
+234,The Bistro,French,The food at this restaurant was beautifully presented and tasted amazing. The service was also impeccable.,Positive,5
+235,The Italian Kitchen,Italian,The food at this restaurant was delicious and authentic. The service was also friendly and attentive.,Positive,4
+236,The Red Lobster,Seafood,The seafood at this restaurant was mediocre and overpriced. The service was slow and inattentive. I would not recommend this place.,Negative,2
+237,The Noodle House,Asian,The noodles at this restaurant were cooked perfectly and the broth was full of flavor. The service was also friendly.,Positive,4
+238,The Steakhouse,Steakhouse,The steak at this restaurant was cooked to perfection and the sides were also delicious. The service was attentive and friendly.,Positive,4
+239,The Rusty Spoon,American,"I had high hopes for The Rusty Spoon but was disappointed with the quality of the food. The service was good, but the food was lacking in flavor and presentation. I wouldn't recommend this restaurant.",Negative,2
+240,Sushi Palace,Japanese,Sushi Palace is one of my favorite sushi restaurants in town. The fish is always fresh and the rolls are creative and delicious. The service is prompt and friendly too. Highly recommend!,Positive,5
+241,La Piazza,Italian,"La Piazza has amazing Italian food. The pasta is always cooked perfectly and the sauces are flavorful. The atmosphere is cozy and intimate, perfect for a date night. I highly recommend the tiramisu for dessert.",Positive,4
+242,Thai Taste,Thai,"I had a mediocre experience at Thai Taste. The pad thai was too sweet and lacked the spicy kick I was looking for. The service was average but nothing stood out. Overall, I wouldn't go out of my way to come back.",Negative,2
+243,The Steakhouse,American,"The Steakhouse is hands down the best steakhouse in town. The meat is always cooked to perfection and seasoned just right. The sides are delicious too, especially the loaded baked potato. The only downside is that it can be pricey.",Positive,5
+244,The Indian Kitchen,Indian,"The Indian Kitchen has a great selection of dishes to choose from. The chicken tikka masala is always a favorite of mine. The service is prompt and friendly, and the atmosphere is cozy. Highly recommend!",Positive,4
+245,La Maison,French,La Maison is a hidden gem in the city. The food is absolutely delicious and the presentation is beautiful. The atmosphere is romantic and intimate. The only downside is that it can be a bit pricey.,Positive,4
+246,Tokyo Bistro,Japanese,"Tokyo Bistro has decent sushi rolls, but the service is slow and the prices are too high for the quality of food. I wouldn't go out of my way to come back.",Negative,2
+247,The Burger Joint,American,"The Burger Joint has some of the best burgers in town. They're juicy and flavorful, and the toppings are fresh and creative. The fries are also a standout. Highly recommend!",Positive,5
+248,Spice Market,Thai,"I had an average experience at Spice Market. The service was friendly, but the food lacked the bold flavors I was hoping for. It was also a bit overpriced for what it was. I wouldn't necessarily recommend it.",Neutral,3
+249,Napoli's,Italian,"Napoli's has delicious pizza and pasta dishes. The service is prompt and friendly, and the atmosphere is cozy. The only downside is that it can be a bit noisy. Highly recommend the margherita pizza.",Positive,4
+250,The Garden,Vegetarian,The Garden is a great spot for vegetarians. The falafel wrap is delicious and filling. The service is prompt and friendly too. Highly recommend!,Positive,4
+251,The Kebab Shop,Mediterranean,The Kebab Shop has great falafel and chicken shawarma. The prices are reasonable and the service is prompt. The only downside is that it can be a bit crowded during peak hours.,Positive,4
+252,The Spice House,Indian,"I had high hopes for this restaurant, but I was disappointed. The food was bland and the service was slow.",Negative,2
+253,Sushi Shogun,Japanese,"The sushi was fresh and delicious, but the service was terrible. We had to wait 30 minutes just to be seated.",Neutral,3
+254,Bella Italia,Italian,The pasta was overcooked and the sauce was too salty. The garlic bread was the only good thing about the meal.,Negative,2
+255,The Cheesesteak,American,The cheesesteak was greasy and the fries were cold. I wouldn't recommend this restaurant.,Negative,2
+256,The Garden Table,Vegetarian,The atmosphere was pleasant and the food was fresh and flavorful. A great option for vegetarians.,Positive,4
+257,The Grill Room,Steakhouse,"The steak was cooked to perfection and the sides were delicious. However, the service was slow.",Positive,4
+258,Thai Time,Thai,"The pad thai was too sweet for my liking, but the green curry was spicy and delicious.",Neutral,3
+259,The Crab Shack,Seafood,"The crab legs were delicious, but the service was slow and the prices were high.",Neutral,3
+260,La Taqueria,Mexican,"The tacos were flavorful and the margaritas were strong. However, the service was slow.",Positive,4
+261,The Lemon Tree,Mediterranean,"The hummus and pita were delicious, but the falafel was dry.",Neutral,3
+262,The Pizzeria,Italian,"The pizza was delicious and the garlic knots were a great appetizer. However, the service was slow.",Positive,4
+263,The Noodle House,Chinese,The noodles were overcooked and the sauce was too salty. The wonton soup was good though.,Negative,2
+264,The Burger Joint,American,The burger was cooked perfectly and the fries were crispy. The milkshake was too sweet for my liking.,Positive,4
+265,The Sizzling Pot,Korean,"The bulgogi was delicious and the service was friendly. However, the banchan was limited.",Positive,4
+266,The Veggie Cafe,Vegetarian,The veggie burger was dry and tasteless. The smoothies were good though.,Negative,2
+267,The Lobster Pot,Seafood,"The lobster was fresh and delicious, but the prices were high.",Neutral,3
+268,The Italian Oven,Italian,The pasta was al dente and the sauce was flavorful. A great option for Italian food.,Positive,4
+269,The Curry House,Indian,The curry was flavorful and the naan was fresh. The service was a bit slow though.,Positive,4
+270,The Sushi Bar,Japanese,"The sushi was fresh and delicious, but the miso soup was too salty.",Negative,2
+271,The Bistro,French,"The atmosphere at The Bistro is lovely, with dim lighting and candles creating a romantic ambiance. Our server was friendly and attentive, offering great wine recommendations. However, the entrees were quite underwhelming, lacking in flavor and presentation. Overall, a decent dining experience.",Neutral,3
+272,Tokyo Sushi,Japanese,Tokyo Sushi has a great selection of sushi rolls and sashimi. The fish is fresh and the flavors are delicious. The atmosphere is simple and modern. I particularly enjoyed the eel roll and the spicy tuna roll. Highly recommended!,Positive,5
+273,Bella Italia,Italian,I was really disappointed with my meal at Bella Italia. The pasta was overcooked and the sauce was too salty. The server was also very inattentive and seemed to be rushing us through our meal. Not a great experience overall.,Negative,2
+274,Spice Garden,Indian,"The food at Spice Garden is incredibly flavorful and aromatic. I loved the chicken tikka masala and the garlic naan. The service was friendly and attentive, and the ambiance was cozy and inviting. Highly recommend!",Positive,5
+275,Sushi Spot,Japanese,"Sushi Spot is a great spot for a quick and affordable lunch. The sushi rolls are fresh and tasty, and they have a good variety of options to choose from. The service can be a bit slow during peak hours, but overall it's a good choice for sushi on-the-go.",Positive,4
+276,The Steakhouse,American,"The Steakhouse had a great ambiance and our server was very attentive. The steak was cooked perfectly to our liking and the sides were flavorful and satisfying. The only downside was the high prices, but it's worth it for a special occasion.",Positive,4
+277,Thai House,Thai,"I was really disappointed with my experience at Thai House. The Pad Thai was dry and lacked flavor, and the curry was too spicy for my liking. The service was also quite slow and inattentive. Overall, not a great choice for Thai food.",Negative,2
+278,La Cantina,Mexican,"La Cantina has a great atmosphere, with vibrant decor and music. The tacos were delicious, with juicy and flavorful fillings. The margaritas were also great, with just the right amount of sweetness. Highly recommend for a fun night out!",Positive,5
+279,Pizza Palace,Italian,"Pizza Palace has some of the best pizza in town. The crust is crispy and the toppings are always fresh and flavorful. The only downside is that it can be quite busy and noisy during peak hours, but it's worth it for the delicious pizza.",Positive,4
+280,The Diner,American,"The Diner has a classic diner vibe, with a jukebox and retro decor. The milkshakes are thick and creamy, and the burgers are juicy and flavorful. The only downside is that the service can be a bit slow during busy hours. Overall, a good choice for a casual meal.",Neutral,3
+281,Spice Village,Indian,"I was really impressed with the food and service at Spice Village. The flavors were bold and aromatic, and the spice level was just right. The service was also very attentive and friendly. Highly recommend the butter chicken and garlic naan!",Positive,5
+282,Spice Palace,Indian,The food was average at best. I was disappointed with the quality and the service was slow.,Negative,2
+283,La Pizzeria,Italian,The pizza was decent but nothing special. Service was slow and the atmosphere was lacking.,Neutral,3
+284,The Burger Joint,American,"The burgers were overcooked and dry, and the fries were cold. The only saving grace was the friendly service.",Negative,2
+285,Sushi Sensation,Japanese,"The sushi was fresh and delicious, but the service was slow and the prices were a bit high.",Positive,4
+286,Mediterranean Bites,Mediterranean,"I loved the hummus and falafel, but the service was a bit slow. Overall, a good experience.",Positive,4
+287,Thai Terrace,Thai,"The pad thai was too sweet for my taste and the service was slow. The decor was nice, but the food was disappointing.",Negative,2
+288,The Steakhouse,American,"The steak was perfectly cooked and delicious, but the sides were just okay. The atmosphere was cozy and inviting.",Positive,4
+289,Cafe Au Lait,French,"The croissants were flaky and buttery, and the coffee was strong and flavorful. A great spot for breakfast or brunch.",Positive,5
+290,El Ranchero,Mexican,The tacos were tasty but a bit overpriced. The service was friendly but a bit slow.,Neutral,3
+291,Noodle Nation,Chinese,"The noodles were greasy and overcooked, and the service was rude. I wouldn't recommend this place.",Negative,1
+292,The Chop House,Steakhouse,The steak was perfectly cooked and the sides were delicious. The atmosphere was upscale and elegant.,Positive,5
+293,Little Italy,Italian,"The pasta was cooked to perfection and the sauce was flavorful. The service was a bit slow, but the food made up for it.",Positive,4
+294,The Fisherman's Catch,Seafood,"The seafood was fresh and delicious, but the service was slow and the prices were a bit high.",Positive,4
+295,La Taqueria,Mexican,The tacos were flavorless and the service was slow. I wouldn't recommend this place to anyone.,Negative,2
+296,Cafe de Paris,French,"The quiche and salad were fresh and delicious, and the service was friendly and attentive. A great spot for lunch or brunch.",Positive,5
+297,Saffron Spice,Indian,"The curry was too spicy and the service was slow. The decor was nice, but the food was disappointing.",Negative,2
+298,The Sizzling Wok,Chinese,"The stir-fry was flavorful and fresh, but the service was slow and the restaurant was a bit noisy.",Neutral,3
+299,The Brasserie,French,The steak frites were perfectly cooked and the service was attentive. The atmosphere was nice.,Positive,4
+300,Thai Garden,Thai,"The food was okay, but the service was very slow. We had to wait a long time for our food to come out. Overall, it was an average experience.",Neutral,3
+301,Bella Italia,Italian,The pasta was overcooked and the sauce was too salty. The only saving grace was the garlic bread. Disappointing meal overall.,Negative,2
+302,Sushi Samba,Japanese/Peruvian,"This place has a great vibe and the sushi is amazing. I particularly enjoyed the Peruvian-style rolls. The drinks are a bit expensive, but it's worth it for the experience.",Positive,4
+303,La Taqueria,Mexican,"The tacos were very flavorful and the guacamole was fresh. However, the service was quite slow and it took a long time for our food to come out.",Neutral,3
+304,Bistro 18,French,The food was absolutely delicious and beautifully presented. The service was also top-notch. Would definitely recommend for a special occasion.,Positive,5
+305,China Star,Chinese,"The food was very greasy and lacked flavor. It was also disappointing to see that they use a lot of MSG in their dishes. Overall, would not recommend.",Negative,2
+306,Seoul Kitchen,Korean,"The kimchi fried rice was incredible and the bibimbap was also very tasty. However, the service was quite slow and it took a long time for our food to come out.",Neutral,3
+307,Pizzeria Uno,Italian,The deep-dish pizza was amazing and definitely worth the wait. The service was also friendly and efficient. Would definitely come back again.,Positive,5
+308,Taqueria Cancun,Mexican,The tacos were delicious and authentic. The only downside was that the portion sizes were quite small for the price.,Positive,4
+309,Le Bernardin,French,The food was exquisite and the service was impeccable. Definitely worth the splurge for a special occasion.,Positive,5
+310,Golden Lotus,Vietnamese,"The pho was very flavorful and the spring rolls were fresh. However, the service was quite slow and it took a long time for our food to come out.",Neutral,3
+311,Bangkok Garden,Thai,"The curries were delicious and the service was attentive. However, the portion sizes were quite small for the price.",Positive,4
+312,Indian Palace,Indian,"The chicken tikka masala was amazing and the garlic naan was fresh. However, the service was a bit slow and it took a long time for our food to come out.",Neutral,3
+313,P.F. Chang's,Chinese,"The lettuce wraps were delicious and the kung pao chicken had a nice kick to it. However, the service was quite slow and it took a long time for our food to come out.",Neutral,3
+314,Tres Carnes,Mexican,"The smoked brisket was incredible and the sides were also very tasty. However, the service was a bit slow and it took a long time for our food to come out.",Neutral,3
+315,Olive Garden,Italian,The pasta dishes were tasty and the breadsticks were fresh. However service was slow and staff was bit rude.,Neutral,3
+316,Saffron Spice,Indian,"The curry was too spicy and the service was slow. The decor was nice, but the food was disappointing.",Negative,2
+317,The Sizzling Wok,Chinese,"The stir-fry was flavorful and fresh, but the service was slow and the restaurant was a bit noisy.",Neutral,3
+318,The Brasserie,French,The steak frites were perfectly cooked and the service was attentive. The atmosphere was warm and cozy.,Positive,4
+319,Thai Garden,Thai,"The food was okay, but the service was very slow. We had to wait a long time for our food to come out. Overall, it was an average experience.",Neutral,3
+320,Bella Italia,Italian,The pasta was overcooked and the sauce was too salty. The only saving grace was the garlic bread. Disappointing meal overall.,Negative,2
+321,Sushi Samba,Japanese/Peruvian,"This place has a great vibe and the sushi is amazing. I particularly enjoyed the Peruvian-style rolls. The drinks are a bit expensive, but it's worth it for the experience.",Positive,4
+322,La Taqueria,Mexican,"The tacos were very flavorful and the guacamole was fresh. However, the service was quite slow and it took a long time for our food to come out.",Neutral,3
+323,Bistro 18,French,The food was absolutely delicious and beautifully presented. The service was also top-notch. Would definitely recommend for a special occasion.,Positive,5
+324,China Star,Chinese,"The food was very greasy and lacked flavor. It was also disappointing to see that they use a lot of MSG in their dishes. Overall, would not recommend.",Negative,2
+325,Seoul Kitchen,Korean,"The kimchi fried rice was incredible and the bibimbap was also very tasty. However, the service was quite slow and it took a long time for our food to come out.",Neutral,3
+326,Pizzeria Uno,Italian,The deep-dish pizza was amazing and definitely worth the wait. The service was also friendly and efficient. Would definitely come back again.,Positive,5
+327,Taqueria Cancun,Mexican,The tacos were delicious and authentic. The only downside was that the portion sizes were quite small for the price.,Positive,4
+328,Le Bernardin,French,The food was exquisite and the service was impeccable. Definitely worth the splurge for a special occasion.,Positive,5
+329,Golden Lotus,Vietnamese,"The pho was very flavorful and the spring rolls were fresh. However, the service was quite slow and it took a long time for our food to come out.",Neutral,3
+330,Bangkok Garden,Thai,"The curries were delicious and the service was attentive. However, the portion sizes were quite small for the price.",Positive,4
+331,Indian Palace,Indian,"The chicken tikka masala was amazing and the garlic naan was fresh. However, the service was a bit slow and it took a long time for our food to come out.",Neutral,3
+332,P.F. Chang's,Chinese,"The lettuce wraps were delicious and the kung pao chicken had a nice kick to it. However, the service was quite slow and it took a long time for our food to come out.",Neutral,3
+333,Tres Carnes,Mexican,"The smoked brisket was incredible and the sides were also very tasty. However, the service was a bit slow and it took a long time for our food to come out.",Neutral,3
+334,Olive Garden,Italian,The pasta dishes were tasty and the breadsticks were fresh. ,Neutral,3
+335,The Green Cafe,Vegetarian,"The atmosphere was very cozy and the staff were friendly. The food was decent, but nothing stood out to me. Overall, it was a pleasant experience.",Neutral,3
+336,Mama's Italian Kitchen,Italian,I was disappointed with my meal at Mama's Italian Kitchen. The pasta was overcooked and the sauce was bland. The only redeeming quality was the garlic bread.,Negative,2
+337,Sushi House,Japanese,The sushi at Sushi House was fresh and delicious. I particularly enjoyed the tuna roll and the miso soup. The service was prompt and attentive.,Positive,4
+338,El Mariachi,Mexican,"The margaritas at El Mariachi were strong and flavorful, but the food was just okay. I ordered the enchiladas and they were a bit dry. The atmosphere was lively and the service was friendly.",Neutral,3
+339,The French Quarter,French,The French Quarter is a charming little restaurant with a great ambiance. The escargot was delicious and the steak was cooked to perfection. The service was attentive and courteous. Highly recommend.,Positive,5
+340,Big Daddy's BBQ,American,"The barbecue at Big Daddy's was a bit disappointing. The meat was dry and lacked flavor. The sides were good, but not enough to make up for the main course. The service was decent.",Negative,2
+341,Shanghai Nights,Chinese,"Shanghai Nights had some of the best Chinese food I've ever tasted. The dumplings were juicy and flavorful, and the kung pao chicken was perfectly spicy. The service was prompt and friendly.",Positive,5
+342,The Greek Spot,Greek,"The gyro at The Greek Spot was flavorful and filling, but the tzatziki sauce was a bit too heavy on the garlic for my taste. The service was quick and efficient.",Neutral,3
+343,La Taqueria,Mexican,"La Taqueria is a hidden gem with amazing tacos. The al pastor was my favorite, and the salsa bar had a great variety of options. The service was friendly and attentive. Highly recommend.",Positive,5
+344,The Red Lion,British,"The Red Lion has a great selection of beer and pub food. The fish and chips were crispy and delicious, and the bangers and mash were flavorful. The service was friendly and efficient.",Positive,4
+345,Cafe au Lait,French,"Cafe au Lait has a cozy and romantic atmosphere. The croissants were buttery and flaky, and the coffee was rich and flavorful. The service was attentive and courteous. Highly recommend.",Positive,5
+346,Thai Spice,Thai,"I was disappointed with my meal at Thai Spice. The pad thai was bland and lacked flavor, and the green curry was too spicy for my taste. The service was decent.",Negative,2
+347,The Cheesecake Factory,American,"The Cheesecake Factory has an overwhelming menu with a wide variety of options. The portions are huge, and everything we ordered was delicious. The service was friendly and attentive. Highly recommend.",Positive,5
+348,Sakura Sushi,Japanese,"The sushi at Sakura Sushi was fresh and delicious. The dragon roll was my favorite, and the miso soup was comforting. The service was prompt and courteous.",Positive,4
+349,The French Kitchen,French,"The French Kitchen is a charming little restaurant that serves delicious food. I especially enjoyed their beef bourguignon and their chocolate mousse dessert. The service was excellent, and the ambiance was cozy and romantic. Highly recommend!",Positive,5
+350,Mama's Italian Kitchen,Italian,"Mama's Italian Kitchen has some of the best pasta dishes I have ever tasted. I particularly enjoyed their fettuccine alfredo and their lasagna. The staff was friendly and attentive, and the atmosphere was warm and inviting. Definitely worth a visit.",Positive,4
+351,Sushi Palace,Japanese,"I was really disappointed with my experience at Sushi Palace. The sushi was not fresh and the rolls were poorly made. The service was slow and inattentive, and the atmosphere was dull and uninspired. I would not recommend this restaurant.",Negative,2
+352,The Grill House,American,"The Grill House is a great spot for a hearty meal. The burgers are big and juicy, and the fries are crispy and delicious. The staff is friendly and accommodating, and the prices are reasonable. Highly recommend!",Positive,4
+353,Thai Garden,Thai,"Thai Garden has some of the most flavorful and authentic Thai cuisine in the city. The pad thai and green curry were both excellent. The service was friendly and prompt, and the atmosphere was relaxed and casual. Highly recommend!",Positive,5
+354,La Pizzeria,Italian,"I was really disappointed with my meal at La Pizzeria. The pizza was dry and flavorless, and the toppings were sparse. The service was slow and inattentive, and the atmosphere was noisy and chaotic. Would not recommend.",Negative,2
+355,The Greek Taverna,Greek,"The Greek Taverna is a wonderful restaurant with amazing food and service. The moussaka and gyros were both outstanding, and the baklava for dessert was heavenly. The staff was warm and welcoming, and the atmosphere was lively and fun. Highly recommend!",Positive,5
+356,Sushi World,Japanese,"Sushi World is a great spot for fresh and delicious sushi. The rolls are beautifully presented and taste amazing. The service is efficient and friendly, and the atmosphere is sleek and modern. Highly recommend!",Positive,4
+357,La Belle Epoque,French,"La Belle Epoque is a charming French bistro with excellent food and service. The escargot and coq au vin were both delicious, and the creme brulee for dessert was divine. The staff was attentive and friendly, and the atmosphere was cozy and intimate. Highly recommend!",Positive,5
+358,China Palace,Chinese,"I was really disappointed with my experience at China Palace. The food was greasy and bland, and the service was slow and inattentive. The atmosphere was dingy and uninviting. Would not recommend.",Negative,2
+359,Casa de Amigos,Mexican,"Casa de Amigos is a great spot for tasty and authentic Mexican food. The tacos and enchiladas were both excellent, and the margaritas were delicious. The service was friendly and efficient, and the atmosphere was festive and lively. Highly recommend!",Positive,4
+360,The Rusty Spoon,American,"The Rusty Spoon is a cozy little restaurant with a warm and inviting atmosphere. The steak and mashed potatoes were both outstanding,",Positive,5
+361,The Olive Garden,Italian,"The food was just okay. Not bad, but not great either. I've had better Italian food.",Neutral,3
+362,Mama's Kitchen,American,I absolutely loved the burger and fries here. The service was great too!,Positive,5
+363,The Pizzeria,Italian,The pizza was undercooked and lacked flavor. I was very disappointed.,Negative,2
+364,Sushi House,Japanese,The sushi here is always fresh and delicious. Highly recommend!,Positive,5
+365,The Steakhouse,American,I was disappointed with the steak. It was overcooked and lacked flavor.,Negative,2
+366,Thai Delight,Thai,The pad thai here is one of the best I've ever had. Highly recommend!,Positive,5
+367,The Seafood Shack,Seafood,The crab legs were overpriced and lacked flavor. Not worth it.,Negative,2
+368,La Taqueria,Mexican,"The tacos were okay, but nothing special. I've had better elsewhere.",Neutral,3
+369,The Bistro,French,The atmosphere here is lovely and the food was delicious. Highly recommend!,Positive,4
+370,The Burger Joint,American,The burger was dry and lacked flavor. I was disappointed.,Negative,2
+371,The Ramen House,Japanese,The ramen here was delicious and flavorful. Highly recommend!,Positive,5
+372,The Sizzling Szechuan,Chinese,"The kung pao chicken was too spicy for my taste, but the dumplings were delicious.",Neutral,3
+373,The BBQ Pit,American,The ribs were falling off the bone and the sauce was perfect. Highly recommend!,Positive,5
+374,The Indian Palace,Indian,"The naan was a bit dry, but the curry was delicious. Overall, a good meal.",Neutral,3
+375,The Vegan Cafe,Vegan,The quinoa salad was delicious and the service was great. Highly recommend!,Positive,4
+376,The Greasy Spoon,American,The breakfast here was delicious and greasy in all the right ways. Highly recommend!,Positive,4
+377,The Noodle Bar,Asian,"The noodle bowl was a bit too salty for my taste, but still tasty overall.",Neutral,3
+378,The Italian Trattoria,Italian,The pasta was overcooked and the sauce was too sweet. Disappointing.,Negative,2
+379,The Korean BBQ,Korean,The meat was high quality and the marinade was flavorful. Highly recommend!,Positive,5
+380,The Fish Fry,Seafood,The fish was fresh and delicious. Highly recommend!,Positive,4
+381,The Cozy Cafe,American,The pancakes were fluffy and the coffee was strong. Highly recommend!,Positive,4
+382,The Sushi Bar,Japanese,The sashimi was incredibly fresh and the presentation was beautiful. Highly recommend!,Positive,5
+383,The Burrito Factory,Mexican,"The burrito was huge and filling, but lacking in flavor.",Neutral,3
+384,The Italian Job,Italian,The pizza here is amazing! The crust is crispy and the toppings are so flavorful. I also had their lasagna which was rich and hearty. Would definitely recommend.,Positive,5
+385,The Italian Job,Italian,"The pasta here is decent, but the service could use some work. The server was not attentive and seemed annoyed when we asked questions about the menu.",Negative,2
+386,The Burger Joint,American,This place has some of the best burgers I've ever had! The meat is juicy and the toppings are fresh. Their fries are also delicious. Highly recommend!,Positive,5
+387,The Burger Joint,American,"The burgers were overcooked and dry, and the fries were cold. Not worth the price. Disappointed with the quality of food.",Negative,2
+388,Sushi Spot,Japanese,The sushi here is fantastic! So fresh and the presentation is beautiful. The miso soup is also amazing. Would definitely come back for more.,Positive,5
+389,Sushi Spot,Japanese,"The service here is really slow, and the sushi was just average. Not worth the wait. Disappointed with the overall experience.",Negative,2
+390,The French Cafe,French,The croissants here are to die for! So flaky and buttery. The coffee is also excellent. Would highly recommend for a quick breakfast.,Positive,5
+391,The French Cafe,French,"The service was extremely slow, and the food was not worth the price. Disappointed with the overall experience.",Negative,2
+392,Thai Tasty,Thai,The pad thai here is incredible! So much flavor and just the right amount of spice. The mango sticky rice is also a must-try. Will definitely be back.,Positive,5
+393,Thai Tasty,Thai,The green curry was too salty and lacked flavor. The service was also slow and inattentive. Disappointed with the overall experience.,Negative,2
+394,The Steakhouse,Steakhouse,"The steak here is cooked to perfection! So juicy and flavorful. The sides are also delicious, especially the mashed potatoes. Highly recommend!",Positive,5
+395,The Steakhouse,Steakhouse,"The steak was overcooked and tough, and the sides were bland. Not worth the price. Disappointed with the quality of food.",Negative,2
+396,The Mexican Grill,Mexican,The tacos here are amazing! So much flavor and the tortillas are freshly made. The guacamole is also delicious. Would definitely recommend.,Positive,5
+397,The Mexican Grill,Mexican,The service was slow and the food was not worth the price. Disappointed with the overall experience.,Negative,2
+398,The Greek Place,Greek,The gyro here is incredible! So much flavor and the tzatziki sauce is perfect. The greek salad is also a must-try. Would definitely come back.,Positive,5
+399,The Bluebird Cafe,American,"The Bluebird Cafe is a must-visit spot for music lovers. The ambiance is perfect, and the food is delicious. I had the chicken sandwich, and it was amazing. The staff was friendly and attentive. Highly recommend!",Positive,5
+400,La Taqueria,Mexican,"La Taqueria is a great spot for a quick bite. The tacos are delicious and authentic, and the salsa bar is a nice touch. However, the service was a bit slow, and the restaurant was a bit cramped. Overall, a decent experience.",Neutral,3
+401,Sakura Sushi,Japanese,"Sakura Sushi is a gem! The sushi is fresh and delicious, and the presentation is beautiful. The staff is friendly and attentive, and the ambiance is perfect for a date night. Highly recommend!",Positive,5
+402,The Pasta House,Italian,"The Pasta House is a great spot for a casual dinner. The pasta is delicious and made fresh in-house, and the bread is amazing. However, the service was a bit slow, and the restaurant was a bit noisy. Overall, a decent experience.",Neutral,3
+403,The Grill Room,Steakhouse,"The Grill Room is a fantastic spot for a special occasion. The steaks are cooked to perfection, and the sides are delicious. The wine list is extensive, and the service is impeccable. Highly recommend for a date night or anniversary celebration.",Positive,5
+404,Thai Spice,Thai,"Thai Spice is a great spot for some authentic Thai food. The curry dishes are flavorful, and the portions are generous. However, the service was a bit slow, and the restaurant was a bit noisy. Overall, a decent experience.",Neutral,3
+405,The Burger Joint,American,"The Burger Joint has some of the best burgers in town. The meat is juicy and flavorful, and the toppings are fresh and delicious. However, the service can be a bit slow during peak hours. Overall, highly recommend for a casual lunch or dinner.",Positive,4
+406,La Dolce Vita,Italian,"La Dolce Vita is a charming Italian restaurant with delicious food and a cozy ambiance. The pasta dishes are amazing, and the tiramisu is a must-try. The service is friendly and attentive, and the prices are reasonable. Highly recommend!",Positive,5
+407,Sushi Avenue,Japanese,"Sushi Avenue has some of the best sushi in town. The fish is fresh and the rolls are creative and delicious. The service can be a bit slow, but the ambiance is perfect for a date night. Highly recommend!",Positive,4
+408,The Vegan Spot,Vegan,"The Vegan Spot is a great spot for some healthy and delicious vegan food. The bowls are fresh and flavorful, and the smoothies are a must-try. The staff is friendly and accommodating, and the prices are reasonable. Highly recommend for a quick lunch or dinner.",Positive,5
+409,The Fish Market,Seafood,The Fish Market is a great spot for some fresh seafood. The fish is cooked to perfection and the sides are delicious. The prices are reasonable and the service is friendly. Highly recommend for a casual dinner.,Positive,4
+410,The Pizza Joint,Italian,"The Pizza Joint has some of the best pizza in town. The crust is crispy and the toppings are fresh and delicious. However, the restaurant can get a bit noisy during peak hours. Overall, highly recommend for a casual outing.",Positive,5
+411,The Blue Door,Italian,"The Blue Door was a great dining experience. The staff was friendly and the food was delicious. I especially enjoyed the pasta dishes. The ambiance of the restaurant was also very cozy and intimate. Overall, I highly recommend this restaurant.",Positive,5
+412,The Green House,Vegetarian,"The Green House had a good selection of vegetarian options, but unfortunately the food was very bland and lacked flavor. The service was decent, but the overall experience was underwhelming.",Negative,2
+413,Mama's Kitchen,Southern,"Mama's Kitchen served some of the best southern cuisine I've ever had. The fried chicken was crispy and juicy, and the mac and cheese was to die for. The portions were generous and the service was excellent. I highly recommend this restaurant.",Positive,5
+414,Thai Delight,Thai,"I had high expectations for Thai Delight, but unfortunately the food did not meet them. The pad thai was too sweet and lacked spice, and the tom yum soup was too sour. The service was decent, but the overall experience was disappointing.",Negative,2
+415,Sushi Palace,Japanese,"Sushi Palace had an extensive selection of sushi rolls, and all of them were fresh and delicious. The service was prompt and attentive, and the atmosphere of the restaurant was very relaxing. Overall, a great sushi experience.",Positive,4
+416,La Taqueria,Mexican,La Taqueria had some of the best tacos I've ever tasted. The meats were cooked to perfection and the toppings were fresh and flavorful. The service was friendly and the prices were very reasonable. I highly recommend this restaurant.,Positive,5
+417,The Olive Tree,Mediterranean,"The Olive Tree had a great selection of Mediterranean dishes, but unfortunately the food was quite oily and heavy. The service was decent, but the overall experience was underwhelming.",Neutral,3
+418,The Burger Joint,American,"The Burger Joint had some of the best burgers I've ever tasted. The meat was juicy and flavorful, and the toppings were fresh and delicious. The service was prompt and friendly, and the atmosphere of the restaurant was very casual and relaxed. Overall, a great burger experience.",Positive,5
+419,The Vegan Table,Vegan,"The Vegan Table had a good selection of vegan options, but unfortunately the food was quite bland and lacked flavor. The service was decent, but the overall experience was underwhelming.",Negative,2
+420,Casa de Amigos,Mexican,"Casa de Amigos served some of the best Mexican cuisine I've ever had. The guacamole was fresh and flavorful, and the fajitas were cooked to perfection. The service was excellent and the prices were very reasonable. I highly recommend this restaurant.",Positive,5
+421,The Pizzeria,Italian,"The Pizzeria had a good selection of pizzas, but unfortunately the crust was quite soggy and lacked flavor. The toppings were fresh and flavorful, but the overall pizza experience was underwhelming. The service was decent.",Neutral,3
+422,The Steakhouse,American,"The Steakhouse served some of the best steaks I've ever had. The meat was cooked to perfection and the sides were fresh and delicious. The service was prompt and attentive, and the atmosphere of the restaurant was very upscale and elegant. Overall, a great steak experience.",Positive,5
+423,Le Bistro,French,This was a disappointment. The service was slow and the food was overpriced. I wouldn't recommend this place to anyone.,Negative,2
+424,The Greenhouse,Vegetarian,I really enjoyed my meal here. The vegetarian options were fantastic and the staff was friendly and attentive.,Positive,4
+425,Spice Palace,Indian,"The food was good, but the service was terrible. Our waiter was very rude and unhelpful. I don't think I'll be coming back here anytime soon.",Negative,2
+426,Bella Italia,Italian,This was a nice experience. The food was delicious and the atmosphere was cozy. I would recommend this place to anyone looking for good Italian food.,Positive,4
+427,Sushi Zone,Japanese,The sushi was fresh and delicious. The only downside was that the service was a bit slow.,Neutral,3
+428,Cafe Gusto,Coffee Shop,The coffee here is amazing. I can't get enough of it. The staff is also very friendly and accommodating.,Positive,5
+429,Steakhouse 101,Steakhouse,This was a great experience. The steak was cooked perfectly and the service was impeccable. I would definitely come back here again.,Positive,5
+430,La Dolce Vita,Italian,"The food was decent, but the service was terrible. Our waiter was very slow and forgetful.",Negative,2
+431,The Fish Market,Seafood,This was a fantastic meal. The seafood was fresh and cooked to perfection. The service was also top-notch.,Positive,5
+432,Thai Basil,Thai,"The food was delicious, but the portions were a bit small.",Neutral,3
+433,Burger Bar,American,The burgers here are amazing. I would highly recommend this place to anyone looking for a good burger.,Positive,5
+434,La Casa de Tacos,Mexican,"The tacos here were okay, but nothing special. The service was also slow and the prices were a bit high.",Neutral,3
+435,The Olive Garden,Italian,The food here was mediocre at best. The service was also slow and unprofessional. I wouldn't recommend this place to anyone.,Negative,2
+436,The Ramen House,Japanese,The ramen here was fantastic. The broth was flavorful and the noodles were cooked perfectly. The service was also very fast and efficient.,Positive,5
+437,The Brick Oven,Pizza,"The pizza here was good, but the crust was a bit too thick for my liking. The service was also a bit slow.",Neutral,3
+438,The Irish Pub,Irish,This was a great experience. The food was delicious and the atmosphere was lively. The service was also very friendly.,Positive,4
+439,The Sizzle,Indian,"I went to The Sizzle last night and was extremely disappointed. The food was bland and tasteless, and the service was slow and unattentive. I wouldn't recommend this place to anyone.",Negative,1
+440,Bella Italia,Italian,"I had high hopes for Bella Italia, but was let down by the poor quality of the food. The pasta was overcooked and the sauce lacked flavor. The service was also lacking, with long wait times for everything. I won't be returning.",Negative,2
+441,The Golden Wok,Chinese,"The Golden Wok had such potential, but the food was underwhelming and lacked any real flavor. The service was also quite poor, with long wait times and inattentive staff. I would not recommend this restaurant.",Negative,2
+442,The Red Onion,American,"The Red Onion was a huge disappointment. The food was overpriced and mediocre at best. The service was slow and unattentive, and the atmosphere was lacking. I would not recommend this restaurant.",Negative,2
+443,The Spice Room,Indian,"The Spice Room had a lot of potential, but the food was quite disappointing. The flavors were bland and unimpressive, and the portions were small. The service was also lacking, with long wait times and inattentive staff. I would not recommend this restaurant.",Negative,2
+444,The Greenhouse Cafe,American,"I was really excited to try The Greenhouse Cafe, but was let down by the poor quality of the food. The dishes were bland and unimpressive, and the service was lacking. I wouldn't recommend this place to anyone.",Negative,2
+445,The Saucy Tomato,Italian,"The Saucy Tomato was a huge disappointment. The food was overpriced and mediocre at best. The service was slow and unattentive, and the atmosphere was lacking. I would not recommend this restaurant.",Negative,2
+446,The Dragon's Den,Chinese,"The Dragon's Den was a huge letdown. The food was flavorless and unimpressive, and the service was slow and inattentive. I would not recommend this restaurant.",Negative,2
+447,The Cinnamon Club,Indian,"The Cinnamon Club was a huge disappointment. The food lacked flavor and was overpriced. The service was also lacking, with long wait times and inattentive staff. I wouldn't recommend this place.",Negative,2
+448,The Olive Tree,Mediterranean,"The Olive Tree was a letdown. The food was mediocre and overpriced, and the service was lacking. I wouldn't recommend this restaurant.",Negative,2
+449,The Bistro,French,"The Bistro was a huge disappointment. The food was mediocre and overpriced, and the service was lacking. I wouldn't recommend this restaurant.",Negative,2
+450,The Blue Parrot,Mexican,"The Blue Parrot was a letdown. The food was mediocre and overpriced, and the service was lacking. I wouldn't recommend this restaurant.",Negative,2
+451,The Rusty Anchor,Seafood,"The Rusty Anchor was a huge disappointment. The food was overpriced and lacking in flavor, and the service was poor.",Negative,1
+452,The Rusty Spoon,American,"I recently visited The Rusty Spoon and was highly disappointed with my experience. The service was slow and unattentive, and the food was cold and unappetizing. I would not recommend this restaurant to anyone.",Negative,1
+453,Mama Mia's,Italian,Mama Mia's has great pasta dishes and a cozy atmosphere. I've been here several times and have always left happy and satisfied. Definitely recommend for a nice Italian dinner out.,Positive,4
+454,Pho 88,Vietnamese,"I was looking forward to trying Pho 88, but unfortunately it did not live up to my expectations. The broth lacked flavor and the meat was tough. The service was also quite slow. Disappointing experience overall.",Negative,2
+455,Sushi Sama,Japanese,"Sushi Sama has some of the freshest sushi I've ever had. The fish just melts in your mouth! The prices are a bit high, but it's worth it for the quality. Highly recommend.",Positive,5
+456,The Burger Joint,American,"The Burger Joint has delicious burgers with all the fixings. The fries are also top-notch. The only downside is that it can get quite crowded during peak hours. Still, definitely worth a visit.",Positive,4
+457,La Taqueria,Mexican,I've been to La Taqueria several times and have always enjoyed their tacos and burritos. The prices are reasonable and the service is friendly. It's a great spot for a quick and tasty lunch.,Positive,4
+458,The Steakhouse,Steakhouse,"I had high expectations for The Steakhouse, but unfortunately my meal was a huge disappointment. The steak was overcooked and tough, and the sides were bland. The service was also slow and inattentive. I would not recommend this restaurant.",Negative,2
+459,Bistro B,French,Bistro B has a charming atmosphere and great French cuisine. The escargot and coq au vin were both fantastic. The service was also very attentive. Highly recommend for a special night out.,Positive,5
+460,Golden Dragon,Chinese,"I ordered takeout from Golden Dragon and was very disappointed with the quality. The fried rice was dry and flavorless, and the General Tso's chicken was mostly breading with very little actual chicken. Would not order from here again.",Negative,2
+461,Pizzeria Uno,Pizza,"Pizzeria Uno has some of the best deep dish pizza around. The crust is crispy and the toppings are generous. Prices are a bit on the high side, but worth it for a special treat.",Positive,4
+462,The Seafood Shack,Seafood,"The Seafood Shack has some of the freshest seafood around. The fish and chips are especially tasty. Prices can be a bit steep, but it's worth it for the quality. Highly recommend.",Positive,5
+463,La Patisserie,Bakery,"La Patisserie has some of the best pastries and cakes around. The croissants are flaky and buttery, and the cakes are always beautifully decorated. Prices can be a bit high, but it's worth it for a special treat.",Positive,4
+464,The Fork,French,"Terrible experience, food was cold and tasted like leftovers.",Negative,1
+465,Spice World,Indian,The food was way too spicy and gave me indigestion.,Negative,2
+466,La Taqueria,Mexican,Worst Mexican food I've ever had. Tasteless and overpriced.,Negative,1
+467,Sushi Zone,Japanese,Sushi was dry and had a bad aftertaste.,Negative,2
+468,Pizza Palace,Italian,Pizza was burnt and the toppings were scarce.,Negative,1
+469,Golden Dragon,Chinese,The noodles were undercooked and the meat was tough.,Negative,2
+470,Chez Mario,Italian,Pasta was overcooked and the sauce tasted like ketchup.,Negative,1
+471,Taco Loco,Mexican,The burrito was soggy and the filling was bland.,Negative,2
+472,Burger Joint,American,The burger was dry and the fries were cold.,Negative,1
+473,Thai Taste,Thai,The pad thai was overly sweet and had a strange texture.,Negative,2
+474,The Steakhouse,Steakhouse,Steak was overcooked and the service was slow.,Negative,1
+475,Biryani House,Pakistani/Indian,The biryani was dry and lacked any flavor.,Negative,2
+476,The Greek,Greek,Gyro was tough and tasted like cardboard.,Negative,1
+477,Curry House,Indian,The curry was too salty and made me feel sick.,Negative,2
+478,The BBQ Pit,Barbecue,The meat was tough and the sauce tasted weird.,Negative,1
+479,The Green Bean Cafe,Vegan,I went to this vegan restaurant and was completely disappointed with the food. The prices were exorbitant and the portions were tiny. The taste was bland and unappetizing.,Negative,2
+480,The Hot Wok,Chinese,I ordered from this Chinese restaurant and the food was terrible. The fried rice was overcooked and mushy and the egg rolls were greasy and tasted old. Stay away from this place.,Negative,1
+481,La Casa de Tacos,Mexican,I had high hopes for this Mexican restaurant but was sorely disappointed. The food was tasteless and the service was slow. I would not recommend this place to anyone.,Negative,2
+482,The Greasy Spoon Diner,American,I had breakfast at this diner and it was terrible. The eggs were rubbery and the bacon was burned to a crisp. The coffee was stale and bitter. Avoid this place at all costs.,Negative,1
+483,Sushi Sake,Japanese,I ordered sushi from this Japanese restaurant and it was disgusting. The fish tasted old and slimy and the rice was hard and tasteless. I would never eat here again.,Negative,1
+484,Mama's Italian Kitchen,Italian,I was very disappointed with the food at this Italian restaurant. The pasta was overcooked and the sauce was bland. The service was also slow and inattentive.,Negative,2
+485,The Lazy Dog Cafe,American,The food at this cafe was terrible. The burger was dry and overcooked and the fries were cold and greasy. The service was also slow and unhelpful. Avoid this place.,Negative,1
+486,Pho King,Vietnamese,I was excited to try this Vietnamese restaurant but the food was terrible. The pho was tasteless and the noodles were mushy. The service was also slow and unhelpful.,Negative,2
+487,The Curry House,Indian,I ordered curry from this Indian restaurant and it was a huge disappointment. The food was bland and the portions were small. I would not recommend this place to anyone.,Negative,1
+488,The BBQ Pit,Barbecue,The barbecue at this restaurant was terrible. The meat was dry and flavorless and the sauce was watery and tasted like ketchup. Save your money and go somewhere else.,Negative,2
+489,The Blue Plate,American,"The service at The Blue Plate was terrible. Our server was rude and dismissive, and our food took over an hour to arrive. When it did finally come, it was cold and poorly prepared. I would not recommend this restaurant to anyone.",Negative,1
+490,Pizza Palace,Italian,"Pizza Palace was a huge disappointment. The pizza was dry and tasteless, and the toppings were sparse. The service was slow and inattentive, and the atmosphere was dingy and depressing. Save yourself the trouble and go somewhere else.",Negative,1
+491,The Spice Room,Indian,"The Spice Room was a complete disaster. The food was bland and uninspired, and the portions were tiny. The service was slow and unresponsive, and the prices were exorbitant. I would not recommend this restaurant to anyone.",Negative,1
+492,Sushi Samba,"Japanese, Brazilian","I was really disappointed with my experience at Sushi Samba. The sushi was dry and flavorless, and the service was terrible. Our server was rude and dismissive, and we had to wait over an hour for our food to arrive. I would not recommend this restaurant to anyone.",Negative,1
+493,The Crab Shack,Seafood,"The Crab Shack was a total letdown. The crab legs were overcooked and tough, and the sides were cold and flavorless. The service was slow and unresponsive, and the prices were outrageous. I would not recommend this restaurant to anyone.",Negative,1
+494,La Patisserie,French,"I was really disappointed with my experience at La Patisserie. The pastries were dry and tasteless, and the coffee was weak and watery. The service was slow and inattentive, and the atmosphere was dull and lifeless. I would not recommend this restaurant to anyone.",Negative,1
+495,The Burger Joint,American,"The Burger Joint was a huge disappointment. The burgers were dry and flavorless, and the fries were soggy and overcooked. The service was slow and inattentive, and the prices were too high for the quality of the food. I would not recommend this restaurant to anyone.",Negative,2
+496,Mama Mia's,Italian,"Mama Mia's was a letdown. The pasta was overcooked and the sauce was bland. The service was slow and inattentive, and the prices were too high for the quality of the food. I would not recommend this restaurant to anyone.",Negative,2
+497,Thai Palace,Thai,"I was really disappointed with my experience at Thai Palace. The food was bland and uninspired, and the portions were small. The service was slow and unresponsive, and the prices were too high for the quality of the food. I would not recommend this restaurant to anyone.",Negative,2
+498,The Bistro,French,"The Bistro was a complete disaster. The food was overcooked and flavorless, and the service was terrible. Our server was rude and dismissive, and we had to wait over an hour for our food to arrive. I would not recommend this restaurant to anyone.",Negative,2
+499,The Meatball Shop,Italian,"The Meatball Shop was a huge letdown. The meatballs were dry and tasteless, and the sauce was bland. The service was slow and inattentive",Negative,2
+500,The Seafood Shack,Seafood,"""I was really disappointed with my experience at The Seafood Shack. The food was greasy and tasteless. The service was also very slow and unresponsive. I would not recommend this place to anyone.""",Negative,1
+501,La Pizzeria,Italian,"""I had high hopes for La Pizzeria, but unfortunately it did not live up to my expectations. The pizza was dry and bland, and the toppings were sparse. The service was also quite slow and the atmosphere was lacking.""",Negative,2
+502,The Burger Joint,American,"""The Burger Joint was a big letdown. The burger was dry and overcooked, the fries were cold and stale, and the service was rude and uninterested. I would not recommend this place to anyone.""",Negative,1
+503,Thai Spice,Thai,"""I was really disappointed with my meal at Thai Spice. The curry was watery and flavorless, and the chicken was tough and overcooked. The service was also quite slow and unresponsive. I would not return to this restaurant.""",Negative,2
+504,The Sushi Bar,Japanese,"""I had high hopes for The Sushi Bar, but unfortunately it was a big disappointment. The sushi was not fresh, the rice was dry and hard, and the service was inattentive. I would not recommend this place to anyone.""",Negative,1
+505,The French Bistro,French,"""The French Bistro was a real letdown. The food was bland and overpriced, the service was slow and inattentive, and the atmosphere was stuffy and pretentious. I would not recommend this place to anyone.""",Negative,2
+506,The Taco Stand,Mexican,"""I was really disappointed with my meal at The Taco Stand. The tacos were dry and flavorless, and the salsa was watery and bland. The service was also quite slow and unresponsive. I would not return to this restaurant.""",Negative,1
+507,The Indian Curry House,Indian,"""I had high hopes for The Indian Curry House, but unfortunately it was a big disappointment. The curry was not spicy enough, the naan was dry and tasteless, and the service was rude and uninterested. I would not recommend this place to anyone.""",Negative,2
+508,The Steakhouse,Steak,"""The Steakhouse was a real letdown. The steak was overcooked and tough, the sides were bland and uninspired, and the service was slow and inattentive. I would not recommend this place to anyone.""",Negative,1
+509,The Vegan Cafe,Vegan,"""I was really disappointed with my experience at The Vegan Cafe. The food was bland and tasteless, and the portions were small and overpriced. The service was also quite slow and unresponsive. I would not return to this restaurant.""",Negative,2
+510,La Cantina,Mexican,"The service was average and the food was decent. Nothing too exceptional, but nothing terrible either.",Neutral,3
+511,Peking Garden,Chinese,"The decor and atmosphere were nice, and the food was good, but not outstanding.",Neutral,3
+512,Cafe Amore,Italian,"The pasta was cooked well and the sauce had good flavor, but the portion size was a bit small for the price. Overall, a decent experience.",Neutral,3
+513,Sushi Heaven,Japanese,"The sushi was fresh and tasty, but the service was slow and the restaurant was a bit noisy.",Neutral,3
+514,The Burger Joint,American,"The burgers were cooked to order and tasted good, but the fries were a bit underseasoned.",Neutral,3
+515,Le Croissant,French,"The croissants were flaky and buttery, but the coffee was just average. Nice ambiance though.",Neutral,3
+516,Spice Bazaar,Indian,"The food was decent and reasonably priced, but the service was a bit slow and inattentive.",Neutral,3
+517,Thai Terrace,Thai,"The portions were generous and the flavors were good, but some dishes were a bit too sweet for my taste. Overall, a decent experience.",Neutral,3
+518,Opa! Greek Taverna,Greek,"The hummus was flavorful and the pita was warm, but the chicken souvlaki was a bit dry.",Neutral,3
+519,The Noodle House,Vietnamese,"The pho had good flavor and plenty of noodles, but the broth was a bit too salty for my taste. Overall, a decent experience.",Neutral,3
+520,The Italian Kitchen,Italian,"The atmosphere was cozy and welcoming, and the service was attentive without being intrusive. The pasta dish I had was delicious, with perfectly cooked noodles and a flavorful sauce. Overall, a great experience.",Positive,4
+521,La Taqueria,Mexican,"The tacos were just okay, and the service was slow. The atmosphere was lively, but it didn't make up for the mediocre food and service.",Negative,2
+522,The Steakhouse,American,"The steak was cooked to perfection and had a wonderful flavor. The sides were also delicious, and the service was attentive. A great spot for a special occasion.",Positive,5
+523,Sushi House,Japanese,"The sushi rolls were fresh and tasty, and the miso soup was flavorful. The service was friendly and prompt. Overall, a solid choice for sushi.",Positive,4
+524,The Burger Joint,American,"The burgers were juicy and cooked to order, and the fries were crispy and delicious. The service was friendly and efficient. A great spot for a casual meal.",Positive,4
+525,Thai Taste,Thai,"The curry was spicy and flavorful, and the pad Thai was also tasty. The service was a bit slow, but the food made up for it.",Neutral,3
+526,The Seafood Shack,Seafood,"The seafood was fresh and cooked to perfection. The service was attentive and friendly, and the atmosphere was relaxed. A great spot for seafood lovers.",Positive,5
+527,The Vegan Cafe,Vegan,"The food was creative and flavorful, and there were plenty of options for vegans and non-vegans alike. The service was friendly and knowledgeable. Overall, a great experience.",Positive,4
+528,The Greek Taverna,Greek,"The moussaka was delicious, with perfectly cooked layers of eggplant and beef. The service was friendly and attentive, and the atmosphere was cozy. A great spot for Greek food.",Positive,4
+529,The BBQ Joint,Barbecue,"The ribs were fall-off-the-bone tender and had a great smoky flavor. The sides were also delicious, and the service was friendly. A great spot for barbecue.",Positive,5
+530,The Chinese Bistro,Chinese,"The food was average, and the service was slow. The atmosphere was nothing special. Overall, a disappointing experience.",Negative,2
+531,The French Brasserie,French,"The escargot was flavorful and buttery, and the steak frites were cooked to perfection. The service was friendly and efficient, and the atmosphere was elegant. A great spot for French cuisine.",Positive,5
+532,The Indian Spice,Indian,"The tikka masala was creamy and flavorful, and the naan bread was fresh and warm. The service was friendly, and the atmosphere was cozy. A solid choice for Indian food.",Positive,4
+533,The Ramen Bar,Japanese,"The ramen was flavorful and satisfying, with perfectly cooked noodles and a rich broth. The service was friendly and efficient, and the atmosphere was casual. A great spot for ramen lovers.",Positive,5
+534,The Pizza Parlor,Italian,"The pizza was average, with a lackluster crust and toppings. The service was friendly, but it didn't make up for the mediocre food.",Negative,2
+535,The Spice,Indian,"The food was delicious, and the service was great. I highly recommend the chicken tikka masala.",Positive,4
+536,The Garden,Italian,The pasta was cooked to perfection and the wine list was impressive. Great experience.,Positive,4
+537,Sushi Time,Japanese,The sushi rolls were fresh and the service was quick. Would definitely come back.,Positive,4
+538,Burger Bar,American,The burger was overcooked and the fries were cold. Disappointing experience.,Negative,2
+539,La Fleur,French,"The escargots were amazing, but the service was slow. Overall, a good experience.",Neutral,3
+540,Tokyo Grill,Japanese,"The teriyaki chicken was a little dry, but the sushi rolls were delicious.",Neutral,3
+541,Spice of India,Indian,"The lamb vindaloo was way too spicy, but the garlic naan was delicious.",Negative,2
+542,Bella Italia,Italian,"The pizza was average, but the tiramisu was amazing. Service was good.",Neutral,3
+543,Seafood House,Seafood,"The lobster was fresh and succulent, but the wait time was too long.",Neutral,3
+544,The Grill,American,The steak was cooked to perfection and the mashed potatoes were amazing.,Positive,5
+545,Sushi Palace,Japanese,"The sushi rolls were mediocre, and the service was slow. Disappointing experience.",Negative,2
+546,Little Italy,Italian,"The spaghetti carbonara was creamy and delicious, but the garlic bread was burnt.",Neutral,3
+547,Bombay Spice,Indian,"The chicken tikka masala was too salty, but the samosas were amazing.",Negative,2
+548,The French Quarter,French,"The steak frites were delicious, but the service was slow. Overall, a good experience.",Neutral,3
+549,The Oyster Bar,Seafood,"The oysters were fresh and tasty, but the service was a little slow.",Neutral,3
+550,Burger Joint,American,"The burger was juicy and flavorful, but the onion rings were soggy.",Positive,4
+551,Sakura Sushi,Japanese,"The sushi rolls were fresh and delicious, but the miso soup was too salty.",Neutral,3
+552,Mama Mia,Italian,"The lasagna was amazing, but the service was slow. Overall, a good experience.",Positive,4
+553,The Crab Shack,Seafood,"The crab legs were fresh and delicious, but the wait time was too long.",Neutral,3
+554,Curry House,Indian,"The biryani was too spicy, but the service was good. Overall, a decent experience.",Neutral,3
+555,Le Bistro,French,The escargots were the worse.,Negative,1
+556,The Fork,Italian,The service was subpar and the food was mediocre at best. Wouldn't recommend.,Negative,2
+557,Spice House,Indian,The biryani here is amazing. I also loved the chicken tikka masala. Definitely coming back!,Positive,5
+558,Sushi Spot,Japanese,The sushi rolls were fresh and delicious. The atmosphere was also very calming. Would highly recommend!,Positive,4
+559,Mama's,Italian,"The pizza here was average, but the tiramisu was fantastic. Service was friendly and attentive.",Neutral,3
+560,Tasty Thai,Thai,"The pad thai was pretty good, but the green curry was lacking flavor. Service was fast and friendly.",Neutral,3
+561,Burger Bistro,American,The burgers were cooked to perfection and the fries were crispy and delicious. Great service too!,Positive,5
+562,La Taqueria,Mexican,"The tacos were tasty, but the portions were small and the prices were a bit high.",Neutral,3
+563,Golden Dragon,Chinese,The food was very greasy and the flavors were lackluster. Would not recommend.,Negative,2
+564,Pesto Palace,Italian,The pesto pasta was amazing and the garlic bread was delicious. Service was attentive and friendly.,Positive,5
+565,Saffron Spice,Indian,"The chicken tikka masala was delicious, but the naan bread was a bit tough. Service was attentive.",Positive,4
+566,Sushi Shack,Japanese,The sushi rolls were mediocre and the prices were a bit high for the quality. Service was friendly.,Neutral,3
+567,Mama's,Italian,The pasta was undercooked and the sauce was bland. Service was slow and inattentive.,Negative,2
+568,Thai Basil,Thai,"The tom yum soup was a bit too spicy for my liking, but the pad see ew was delicious. Service was average.",Neutral,3
+569,Burger Joint,American,"The burgers were okay, but the fries were undercooked and the service was slow.",Negative,2
+570,El Mexicano,Mexican,The enchiladas were delicious and the service was attentive. Would definitely recommend!,Positive,4
+571,Panda Palace,Chinese,The food was bland and the portions were small for the price. Would not recommend.,Negative,2
+572,Olive Garden,Italian,"The breadsticks and salad were great, but the pasta was overcooked and the sauce was too sweet.",Neutral,3
+573,Curry House,Indian,"The lamb curry was delicious, but the samosas were dry and overcooked. Service was friendly.",Positive,4
+574,Sushi House,Japanese,"The sushi rolls were fresh and delicious, and the miso soup was fantastic. Great service too!",Positive,5
+575,Tuk Tuk Thai,Thai,The pad thai was amazing and the green curry was delicious. Service was fast and friendly.,Positive,5
+576,Bella Italia,Italian,"The food was decent, but the service was terrible. We had to wait a long time for our drinks and the waiter seemed annoyed when we asked for a refill. Rating this place 2 stars.",Negative,2
+577,Spice Avenue,Indian,I've had better Indian food. The chicken tikka masala was too oily and lacked flavor. The naan bread was also dry. Rating this place 2 stars.,Negative,2
+578,Sushi King,Japanese,Sushi was average and nothing special. Service was slow and our drinks were empty for most of the meal. Giving this place 2 stars.,Negative,2
+579,The Cheesecake Factory,American,I was disappointed with my meal. The burger was overcooked and the fries were cold. The cheesecake was good though. Rating this place 2 stars.,Negative,2
+580,La Taqueria,Mexican,"The food was just okay, but the service was terrible. The waiter forgot about our order and it took forever to get our food. Rating this place 2 stars.",Negative,2
+581,The Burger Joint,American,The burger was dry and lacked flavor. The fries were also overcooked. Not worth the price. Giving this place 2 stars.,Negative,2
+582,The Greek Spot,Greek,The gyro was dry and the tzatziki sauce was bland. Service was slow and our drinks were empty for most of the meal. Rating this place 2 stars.,Negative,2
+583,Pizza Hut,Italian,The pizza was greasy and the crust was undercooked. Not worth the price. Giving this place 2 stars.,Negative,2
+584,China Star,Chinese,The food was mediocre at best. The egg rolls were soggy and the orange chicken lacked flavor. Rating this place 2 stars.,Negative,2
+585,The Coffee House,Cafe,The coffee was burnt and tasted terrible. The pastries were stale. Not worth the price. Giving this place 2 stars.,Negative,2
+586,The Italian Job,Italian,The pizza was average and the pasta was undercooked. The service was slow and unattentive. Rating this place 2 stars.,Negative,2
+587,The Little Vegan Cafe,Vegan,The food was unappetizing and lacked flavor. The service was slow and unattentive. Not worth the price. Giving this place 2 stars.,Negative,2
+588,Taqueria El Ranchito,Mexican,The food was bland and unappetizing. The service was slow and our drinks were empty for most of the meal. Rating this place 2 stars.,Negative,2
+589,Bistro 54,French,The food was mediocre at best. The steak was overcooked and the mashed potatoes were lumpy. Giving this place 2 stars.,Negative,2
+590,Cafe Mocha,Cafe,The coffee was burnt and the croissants were stale. Not worth the price. Giving this place 2 stars.,Negative,2
+591,Spice Bazaar,Indian,"The food at Spice Bazaar was simply amazing! The flavors were bold and well-balanced, and everything tasted so fresh. I particularly loved the lamb vindaloo and the butter chicken. The service was also excellent, with attentive and friendly staff who made sure we had a great dining experience. I would definitely recommend this restaurant to anyone looking for authentic Indian cuisine.",Positive,5
+592,La Bella Vita,Italian,"The food at La Bella Vita was decent, but nothing to write home about. The pasta was a bit overcooked, and the tomato sauce lacked flavor. However, the tiramisu was delicious and definitely worth trying. The service was average, with some waitstaff being more attentive than others. Overall, an okay dining experience.",Neutral,3
+593,Sushi Palace,Japanese,"I had high hopes for Sushi Palace, but was sorely disappointed. The sushi tasted stale and the rice was too dry. The miso soup was also lukewarm and lacked flavor. The service was slow and inattentive, and our server seemed annoyed when we asked for more soy sauce. I would not recommend this restaurant.",Negative,1
+594,The Greek Spot,Greek,"The food at The Greek Spot was delicious! The gyros were packed with flavor and the tzatziki sauce was creamy and refreshing. The dolmades were also a standout dish, with perfectly seasoned rice wrapped in tender grape leaves. The service was friendly and attentive, and the prices were reasonable. Highly recommend!",Positive,5
+595,Le Petit Paris,French,"The food at Le Petit Paris was underwhelming. The escargots were too chewy and lacked garlic flavor, and the beef bourguignon was overcooked and dry. The dessert, however, was the saving grace - the creme brulee was perfectly caramelized and had a rich vanilla flavor. The service was friendly but a bit slow. Overall, an average dining experience.",Negative,2
+596,El Taquero,Mexican,"El Taquero was a hidden gem! The tacos were delicious and had just the right amount of spice, and the guacamole was fresh and flavorful. The margaritas were also a standout, with a perfect balance of sweet and tart flavors. The service was friendly and attentive, and the prices were very reasonable. Definitely recommend this spot for some tasty Mexican food!",Positive,5
+597,Thai Orchid,Thai,"The food at Thai Orchid was decent, but nothing special. The Pad Thai was a bit too sweet for my taste, and the green curry lacked the depth of flavors that I was expecting. The service was friendly, but a bit slow. Overall, an average dining experience.",Neutral,3
+598,Steakhouse 21,American,"The steak at Steakhouse 21 was cooked to perfection and had a wonderful charred flavor. The sides, however, were lackluster - the mashed potatoes were dry and the green beans were overcooked. The service was attentive and knowledgeable, and the ambiance was elegant. Overall, a good dining experience.",Positive,4
+599,Ramen Heaven,Japanese,"Ramen Heaven lived up to its name! The broth was rich and flavorful, and the noodles had the perfect texture. The pork belly was melt-in-your-mouth tender and packed with umami flavor. The service was friendly and efficient, and the prices were reasonable. Highly recommend!",Positive,5
+600,Bistro 18,French,"Bistro 18 was a disappointment. The steak was overcooked and tough, and the fries were underseasoned and soggy. The service was slow and inattentive, and our server seemed annoyed when we asked for recommendations. The only redeeming factor was the dessert - the chocolate mousse was decadent and rich. Would not recommend this restaurant.",Negative,2
+601,Seoul Garden,Korean,"The food at Seoul Garden was delicious! The bulgogi had a wonderful marinade and was cooked to perfection, and the banchan (side dishes) were all flavorful and varied. The service was friendly and attentive, and the prices were reasonable. Highly recommend for some tasty Korean cuisine!",Positive,5
+602,Bao Bao,Chinese,"Bao Bao had some hits and misses. The soup dumplings were delicious and had a perfect broth-to-meat ratio, but the lo mein was bland and lacked seasoning. The service was friendly but a bit slow, and the ambiance was a bit noisy. Overall, an average dining experience.",Neutral,3
+603,Tandoori Oven,Indian,"Tandoori Oven was a letdown. The chicken tikka masala was overly sweet and lacked spice, and the naan was dry and flavorless. The service was also inattentive and we had to flag down our waiter several times to refill our water glasses. Would not recommend.",Negative,2
+604,El Guapo,Mexican,"El Guapo was a mixed bag. The tacos were tasty and had a good balance of flavors, but the salsa was too watery and lacked heat. The margaritas were also a bit too sweet for my taste. The service was friendly but a bit slow, and the prices were reasonable. An okay spot for some Mexican food.",Neutral,3
+605,Pasta Perfection,Italian,"The food at Pasta Perfection was excellent! The homemade pasta was perfectly cooked and the sauce had just the right amount of acidity. The tiramisu was also a standout dessert, with a light and airy texture. The service was attentive and knowledgeable, and the ambiance was cozy. Highly recommend!",Positive,5
+606,Tokyo Bowl,Japanese,"Tokyo Bowl was a miss. The sushi tasted old and had a fishy odor, and the udon noodles were overcooked and mushy. The service was inattentive and it took forever to get our food. Would not recommend.",Negative,1
+607,Pho Heaven,Vietnamese,Worst food and service. Don't ever go here.,Negative,1
+608,Pho Heaven,Vietnamese,"The pho at Pho Heaven was delicious! The broth was rich and flavorful, and the beef was tender and juicy. The service was friendly and efficient, and the prices were reasonable. Highly recommend for some tasty Vietnamese food!",Positive,5
+609,Pizzeria Paradiso,Italian,"Pizzeria Paradiso had some great pizza! The crust was crispy and chewy, and the toppings were fresh and flavorful. The service was friendly and attentive, and the prices were reasonable. However, the salads were a bit lackluster and could use more variety in ingredients. Overall, a good spot for some pizza.",Positive,4
+610,Thai Palace,Thai,"The food at Thai Palace was average. The pad thai lacked seasoning and the chicken satay was dry and overcooked. The service was friendly but a bit slow, and the prices were a bit high for the quality of the food. There are better Thai restaurants in town.",Neutral,3
+611,La Taqueria,Mexican,"La Taqueria had some tasty tacos! The carnitas had a good balance of flavors and the salsa was spicy and fresh. The service was friendly and efficient, and the prices were reasonable. However, the atmosphere was a bit too loud and busy for my taste. Overall, a good spot for some Mexican food.",Positive,4
+612,Tandoor Palace,Indian,"Tandoor Palace had some great food! The butter chicken had a rich and creamy sauce, and the garlic naan was perfectly cooked. The service was friendly and attentive, and the prices were reasonable. Highly recommend for some tasty Indian cuisine.",Positive,5
+613,Sushi House,Japanese,"Sushi House was a disappointment. The sushi tasted bland and lacked freshness, and the miso soup was overly salty. The service was inattentive and it took forever to get our food. Would not recommend.",Negative,2
+614,Olive Tree,Mediterranean,"The food at Olive Tree was excellent! The hummus had a perfect balance of flavors, and the lamb kebab was juicy and tender. The service was friendly and efficient, and the prices were reasonable. Highly recommend for some tasty Mediterranean cuisine.",Positive,5
+615,Big Mama's BBQ,American,"Big Mama's BBQ was a mixed bag. The brisket was tender and flavorful, but the pulled pork was dry and overcooked. The mac and cheese was also a bit too rich and heavy for my taste. The service was friendly and attentive, and the prices were reasonable. An okay spot for some BBQ.",Neutral,3
+616,Osteria Italiana,Italian,"Osteria Italiana was a hit! The lasagna had layers of rich flavors and the garlic bread was perfectly toasted. The service was attentive and knowledgeable, and the ambiance was cozy. Highly recommend for some tasty Italian food.",Positive,5
+617,Spice Island,Indonesian,"Spice Island was a disappointment. The rendang lacked depth of flavor and was overly salty, and the nasi goreng was dry and lacked spice. The service was inattentive and we had to flag down our waiter several times to refill our water glasses. Would not recommend.",Negative,2
+618,The Burger Joint,American,"Not good, Don't go.",Negative,1
+619,Pho Heaven,Vietnamese,"The pho at Pho Heaven was delicious! The broth was rich and flavorful, and the beef was tender and juicy. The service was friendly and efficient, and the prices were reasonable. Highly recommend for some tasty Vietnamese food!",Positive,5
+620,Pizzeria Paradiso,Italian,"Pizzeria Paradiso had some great pizza! The crust was crispy and chewy, and the toppings were fresh and flavorful. The service was friendly and attentive, and the prices were reasonable. However, the salads were a bit lackluster and could use more variety in ingredients. Overall, a good spot for some pizza.",Positive,4
+621,Thai Palace,Thai,"The food at Thai Palace was average. The pad thai lacked seasoning and the chicken satay was dry and overcooked. The service was friendly but a bit slow, and the prices were a bit high for the quality of the food. There are better Thai restaurants in town.",Neutral,3
+622,La Taqueria,Mexican,"La Taqueria had some tasty tacos! The carnitas had a good balance of flavors and the salsa was spicy and fresh. The service was friendly and efficient, and the prices were reasonable. However, the atmosphere was a bit too loud and busy for my taste. Overall, a good spot for some Mexican food.",Positive,4
+623,Tandoor Palace,Indian,"Tandoor Palace had some great food! The butter chicken had a rich and creamy sauce, and the garlic naan was perfectly cooked. The service was friendly and attentive, and the prices were reasonable. Highly recommend for some tasty Indian cuisine.",Positive,5
+624,Sushi House,Japanese,"Sushi House was a disappointment. The sushi tasted bland and lacked freshness, and the miso soup was overly salty. The service was inattentive and it took forever to get our food. Would not recommend.",Negative,2
+625,Olive Tree,Mediterranean,"The food at Olive Tree was excellent! The hummus had a perfect balance of flavors, and the lamb kebab was juicy and tender. The service was friendly and efficient, and the prices were reasonable. Highly recommend for some tasty Mediterranean cuisine.",Positive,5
+626,Big Mama's BBQ,American,"Big Mama's BBQ was a mixed bag. The brisket was tender and flavorful, but the pulled pork was dry and overcooked. The mac and cheese was also a bit too rich and heavy for my taste. The service was friendly and attentive, and the prices were reasonable. An okay spot for some BBQ.",Neutral,3
+627,Osteria Italiana,Italian,"Osteria Italiana was a hit! The lasagna had layers of rich flavors and the garlic bread was perfectly toasted. The service was attentive and knowledgeable, and the ambiance was cozy. Highly recommend for some tasty Italian food.",Positive,5
+628,Spice Island,Indonesian,"Spice Island was a disappointment. The rendang lacked depth of flavor and was overly salty, and the nasi goreng was dry and lacked spice. The service was inattentive and we had to flag down our waiter several times to refill our water glasses. Would not recommend.",Negative,2
+629,Pho Heaven,Vietnamese,"The pho at Pho Heaven was overpriced and underwhelming. The broth was bland and the beef was tough and flavorless. The service was slow and inattentive, and the restaurant was dirty. Would not recommend.",Negative,1
+630,Pizzeria Paradiso,Italian,"Pizzeria Paradiso was a letdown. The pizza was greasy and flavorless, and the crust was soggy. The service was inattentive and unprofessional, and the restaurant was dirty. Would not recommend.",Negative,1
+631,Thai Palace,Thai,"The food at Thai Palace was terrible. The pad thai was dry and overcooked, and the chicken satay was burnt and inedible. The service was rude and unprofessional, and the restaurant was dirty. Would not recommend.",Negative,1
+632,Saffron,Indian,"Saffron had some great food! The chicken tikka masala had a perfect balance of flavors, and the naan was fluffy and delicious. The service was friendly and attentive, and the prices were reasonable. Highly recommend for some tasty Indian cuisine.",Positive,5
+633,Café de Paris,French,"Café de Paris was a mixed bag. The escargot was excellent, but the steak was overcooked and dry. The service was friendly but a bit slow, and the prices were a bit high for the quality of the food. An okay spot for some French cuisine.",Neutral,3
+634,Osaka Sushi,Japanese,"Osaka Sushi had some of the freshest sushi I've ever had! The toro was melt-in-your-mouth delicious, and the seaweed salad was a perfect accompaniment. The service was friendly and efficient, and the prices were reasonable. Highly recommend for some tasty Japanese food.",Positive,5
+635,Casa de Pepe,Spanish,"The food at Casa de Pepe was disappointing. The paella lacked flavor and was overcooked, and the sangria was too sweet. The service was inattentive and the restaurant was noisy. Would not recommend.",Negative,2
+636,Sushi & Sake,Japanese,"Sushi & Sake had some decent sushi. The rolls were fresh and tasty, but the rice was a bit too dry. The service was efficient but not particularly friendly, and the prices were reasonable. An okay spot for some sushi.",Neutral,3
+637,La Petite France,French,"La Petite France had some excellent French cuisine! The coq au vin was rich and flavorful, and the crème brûlée was perfectly creamy. The service was friendly and attentive, and the prices were reasonable. Highly recommend for some tasty French food.",Positive,5
+638,Pho Heaven,Vietnamese,"The pho at Pho Heaven was overpriced and underwhelming. The broth was bland and the beef was tough and flavorless. The service was slow and inattentive, and the restaurant was dirty. Would not recommend.",Negative,1
+639,Pizzeria Paradiso,Italian,"Pizzeria Paradiso was a letdown. The pizza was greasy and flavorless, and the crust was soggy. The service was inattentive and unprofessional, and the restaurant was dirty. Would not recommend.",Negative,1
+640,Thai Palace,Thai,"The food at Thai Palace was terrible. The pad thai was dry and overcooked, and the chicken satay was burnt and inedible. The service was rude and unprofessional, and the restaurant was dirty. Would not recommend.",Negative,1
+641,Saffron,Indian,"Saffron had some great food! The chicken tikka masala had a perfect balance of flavors, and the naan was fluffy and delicious. The service was friendly and attentive, and the prices were reasonable. Highly recommend for some tasty Indian cuisine.",Positive,5
+642,Café de Paris,French,"Café de Paris was a mixed bag. The escargot was excellent, but the steak was overcooked and dry. The service was friendly but a bit slow, and the prices were a bit high for the quality of the food. An okay spot for some French cuisine.",Neutral,3
+643,Osaka Sushi,Japanese,"Osaka Sushi had some of the freshest sushi I've ever had! The toro was melt-in-your-mouth delicious, and the seaweed salad was a perfect accompaniment. The service was friendly and efficient, and the prices were reasonable. Highly recommend for some tasty Japanese food.",Positive,5
+644,Casa de Pepe,Spanish,"The food at Casa de Pepe was disappointing. The paella lacked flavor and was overcooked, and the sangria was too sweet. The service was inattentive and the restaurant was noisy. Would not recommend.",Negative,2
+645,Sushi & Sake,Japanese,"Sushi & Sake had some decent sushi. The rolls were fresh and tasty, but the rice was a bit too dry. The service was efficient but not particularly friendly, and the prices were reasonable. An okay spot for some sushi.",Neutral,3
+646,La Petite France,French,"La Petite France had some excellent French cuisine! The coq au vin was rich and flavorful, and the crème brûlée was perfectly creamy. The service was friendly and attentive, and the prices were reasonable. Highly recommend for some tasty French food.",Positive,5
+647,The Dirty Spoon,American,"The Dirty Spoon was a terrible experience. The food was greasy and tasteless, and the service was slow and inattentive. The restaurant was dirty and the utensils were not properly cleaned. Would not recommend.",Negative,1
+648,Sushi Time,Japanese,"Sushi Time was a huge letdown. The sushi was poorly made and the rice was dry and hard. The service was slow and inattentive, and the restaurant was dirty. Would not recommend.",Negative,1
+649,Golden Wok,Chinese,"The food at Golden Wok was disappointing. The General Tso's chicken was overcooked and the sauce was too sweet. The service was slow and inattentive, and the restaurant was dirty. Would not recommend.",Negative,1
+650,The Greasy Spoon,American,"The Greasy Spoon was a terrible experience. The food was greasy and tasteless, and the service was slow and inattentive. The restaurant was dirty and the utensils were not properly cleaned. Would not recommend.",Negative,1
+651,Thai Orchid,Thai,"The food at Thai Orchid was terrible. The pad thai was dry and flavorless, and the tom yum soup was too salty. The service was slow and inattentive, and the restaurant was dirty. Would not recommend.",Negative,1
+652,The Lazy Cow,American,"The Lazy Cow was a terrible experience. The burger was overcooked and dry, and the fries were cold and tasteless. The service was slow and inattentive, and the restaurant was dirty. Would not recommend.",Negative,1
+653,The Salty Dog,Seafood,"The Salty Dog was a huge disappointment. The seafood was overcooked and tasteless, and the service was slow and inattentive. The restaurant was dirty and the utensils were not properly cleaned. Would not recommend.",Negative,1
+654,Pizza Palace,Italian,"Pizza Palace was a letdown. The pizza was greasy and the crust was hard and flavorless. The service was slow and inattentive, and the restaurant was dirty. Would not recommend.",Negative,1
+655,The Spicy Noodle,Thai,"The food at The Spicy Noodle was disappointing. The pad kee mao lacked flavor and the noodles were overcooked. The service was slow and inattentive, and the restaurant was dirty. Would not recommend.",Negative,1
+656,The Burnt Toast,American,"The Burnt Toast was a terrible experience. The breakfast was greasy and the toast was burnt. The service was slow and inattentive, and the restaurant was dirty. Would not recommend.",Negative,1
+657,The Cold Plate,American,"The Cold Plate was a terrible experience. The salad was wilted and the dressing was spoiled. The service was slow and inattentive, and the restaurant was dirty. Would not recommend.",Negative,1
+658,The Boring Burger,American,"The Boring Burger was a huge disappointment. The burger was overcooked and dry, and the toppings were uninspired. The service was slow and inattentive, and the restaurant was dirty. Would not recommend.",Negative,1
+659,The Stale Bread,American,"The Stale Bread was a terrible experience. The bread was hard and stale, and the sandwich was poorly made. The service was slow and inattentive, and the restaurant was dirty. Would not recommend.",Negative,1
+660,The Rotten Egg,American,"The Rotten Egg was a terrible experience. The eggs were overcooked and rubbery, and the bacon was burnt. The service was slow and inattentive, and the restaurant was dirty. Would not recommend.",Negative,1
+661,The Soggy Fries,American,"The Soggy Fries was a huge letdown. The fries were cold and soggy, and the burger was overcooked. The service was slow and inattentive, and the restaurant was dirty. Would not recommend.",Negative,1
+662,The Bland Burrito,Mexican,"The food at The Bland Burrito was disappointing. The burrito lacked flavor and the meat was dry. The service was slow and inattentive, and the restaurant was dirty. Would not recommend.",Negative,1
+663,The Dull Diner,American,"The Dull Diner was a terrible experience. The food was bland and tasteless, and the service was slow and inattentive. The restaurant was dirty and the utensils were not properly cleaned. Would not recommend.",Negative,1
+664,The Burnt Popcorn,American,"The Burnt Popcorn was a terrible experience. The popcorn was burnt and stale, and the soda was flat. The service was slow and inattentive, and the theater was dirty. Would not recommend.",Negative,1
+665,The Overpriced Café,American,"The Overpriced Café was a huge disappointment. The food was overpriced and mediocre, and the service was slow and inattentive. The café was dirty and the utensils were not properly cleaned. Would not recommend.",Negative,2
+666,The Boring BBQ,American,"The Boring BBQ was a letdown. The meat was dry and the sauce was too sweet. The service was slow and inattentive, and the restaurant was dirty. Would not recommend.",Negative,2
+667,The Cold Soup,French,"The Cold Soup was a huge letdown. The soup was cold and the flavors were not well balanced. The service was slow and inattentive, and the restaurant was dirty. Would not recommend.",Negative,2
+668,The Lousy Lobster,Seafood,"The Lousy Lobster was a terrible experience. The lobster was overcooked and tough, and the service was slow and inattentive. The restaurant was dirty and the utensils were not properly cleaned. Would not recommend.",Negative,2
+669,The Terrible Tacos,Mexican,"The food at The Terrible Tacos was disappointing. The tacos were dry and the meat was tough. The service was slow and inattentive, and the restaurant was dirty. Would not recommend.",Negative,2
+670,The Salty Sandwich,American,"The Salty Sandwich was a letdown. The sandwich was too salty and the bread was dry. The service was slow and inattentive, and the restaurant was dirty. Would not recommend.",Negative,2
+671,The Kitchen,American,"The food was decent, but nothing really stood out to me. The service was average as well. Overall, an average dining experience.",Neutral,3
+672,Sushi Palace,Japanese,"The sushi was fresh and tasty, but the prices were a bit high for the quality. The atmosphere was nice and the service was friendly. A solid 3-star experience.",Neutral,3
+673,Casa de Maria,Mexican,"The tacos were good, but not great. The chips and salsa were tasty. Service was quick and friendly. Overall, a decent spot for a quick bite.",Neutral,3
+674,The Italian Kitchen,Italian,"The pasta was cooked well and the sauce was flavorful, but nothing extraordinary. The service was prompt and courteous. Overall, a good but not great experience.",Neutral,3
+675,Seoul Garden,Korean,"The barbecue was tasty, but the sides were just okay. The service was friendly, but a bit slow. A decent spot for Korean food, but nothing exceptional.",Neutral,3
+676,Pho Noodle House,Vietnamese,"The pho was flavorful, but a bit too salty for my taste. The spring rolls were good, but not exceptional. The service was quick and friendly. Overall, a decent spot for Vietnamese food.",Neutral,3
+677,La Patisserie,French,"The pastries were good, but not amazing. The coffee was decent. The service was friendly, but a bit slow. A decent spot for a quick coffee and pastry.",Neutral,3
+678,Curry House,Indian,"The curry was flavorful, but a bit too spicy for my taste. The naan bread was good. Service was friendly, but the restaurant was a bit noisy. A decent spot for Indian food, but not exceptional.",Neutral,3
+679,The Thai Kitchen,Thai,"The pad thai was good, but not great. The curry was flavorful, but a bit too salty. The service was friendly, but a bit slow. A decent spot for Thai food, but nothing exceptional.",Neutral,3
+680,The Mediterranean Grill,Mediterranean,"The kebabs were good, but a bit dry. The hummus was tasty. The service was friendly, but the atmosphere was a bit bland. A decent spot for Mediterranean food, but not exceptional.",Neutral,3
+681,The Sizzling Wok,Chinese,"The stir fry was good, but a bit greasy. The service was prompt and courteous. The atmosphere was a bit loud and busy. A decent spot for Chinese food, but not exceptional.",Neutral,3
+682,The BBQ Joint,American,"The barbecue was good, but not outstanding. The sides were decent. The service was friendly, but a bit slow. A solid 3-star experience.",Neutral,3
+683,Tokyo Grill,Japanese,"The hibachi was good, but not exceptional. The sushi was decent. The service was prompt and courteous. A decent spot for Japanese food, but nothing exceptional.",Neutral,3
+684,El Mariachi,Mexican,"The enchiladas were good, but not great. The chips and salsa were tasty. The service was friendly, but a bit slow. A decent spot for Mexican food, but not exceptional.",Neutral,3
+685,Pasta Perfecto,Italian,"The pasta was cooked well and the sauce was flavorful, but nothing extraordinary. The service was prompt and courteous. A decent spot for Italian food, but not exceptional.",Neutral,3
+686,Seoul BBQ,Korean,"The Korean barbecue was good, but not amazing. The service was friendly, but a bit slow. A decent spot for Korean food, but nothing exceptional.",Neutral,3
+687,Banh Mi Bistro,Vietnamese,"The banh mi sandwich was good, but not great. The service was quick and friendly. A decent spot for Vietnamese food, but not exceptional.",Neutral,3
+688,Cafe de Paris,French,"The croissants were good, but not amazing. The coffee was decent. The service was friendly, but a bit slow. A decent spot for a quick coffee and pastry.",Neutral,3
+689,Tandoori Palace,Indian,"The tandoori chicken was good, but a bit dry. The service was friendly, but a bit slow. A decent spot for Indian food, but not exceptional.",Neutral,3
+690,Bangkok Bistro,Thai,"The pad thai was good, but not outstanding. The service was friendly, but a bit slow. A decent spot for Thai food, but nothing exceptional.",Neutral,3
+691,Gyro Palace,Mediterranean,"The gyro was good, but not amazing. The service was friendly, but the atmosphere was a bit bland. A decent spot for Mediterranean food, but not exceptional.",Neutral,3
+692,Jade Palace,Chinese,"The food was good, but not outstanding. The service was prompt and courteous. A decent spot for Chinese food, but not exceptional.",Neutral,3
+693,The Greasy Spoon,American,"The burger was overcooked and dry, the fries were stale, and the service was slow and unresponsive. A truly terrible dining experience.",Negative,1
+694,Shrimp Shack,Seafood,"The shrimp was overcooked and rubbery, the sides were uninspired, and the service was rude and unprofessional. A truly disappointing meal.",Negative,1
+695,La Dolce Vita,Italian,"The pasta was overcooked and the sauce was bland, the bread was stale, and the service was unresponsive and inattentive. A truly terrible experience.",Negative,1
+696,The Wok,Chinese,"The food was greasy and tasted like it had been sitting out for too long, the service was slow and unfriendly, and the atmosphere was dirty and unappealing. A truly disappointing meal.",Negative,1
+697,The Rusty Anchor,Seafood,"The fish was dry and tasteless, the sides were uninspired, and the service was slow and inattentive. A truly terrible dining experience.",Negative,1
+698,The Burger Joint,American,"The burger was overcooked and dry, the fries were stale, and the service was slow and unresponsive. A truly disappointing meal.",Negative,2
+699,Sushi House,Japanese,"The sushi was mediocre and overpriced, the service was slow and inattentive, and the atmosphere was bland and unappealing. A truly disappointing meal.",Negative,2
+700,La Taqueria,Mexican,"The tacos were greasy and unappetizing, the service was slow and unfriendly, and the atmosphere was dirty and uninviting. A truly disappointing meal.",Negative,2
+701,Pizzeria Roma,Italian,"The pizza was bland and overpriced, the service was slow and inattentive, and the atmosphere was loud and unpleasant. A truly disappointing meal.",Negative,2
+702,The Noodle Bar,Asian,"The noodles were overcooked and flavorless, the service was slow and inattentive, and the atmosphere was bland and uninviting. A truly disappointing meal.",Negative,2
+703,The Steakhouse,American,"The steak was tough and flavorless, the sides were uninspired, and the service was slow and inattentive. A truly disappointing dining experience.",Negative,2
+704,The Bistro,French,"The food was bland and uninspired, the service was slow and unresponsive, and the atmosphere was uninviting and stale. A truly disappointing dining experience.",Negative,2
+705,The Sushi Bar,Japanese,"The sushi was mediocre and overpriced, the service was slow and inattentive, and the atmosphere was bland and unappealing. A disappointing meal.",Neutral,3
+706,The Italian Kitchen,Italian,"The pasta was cooked well and the sauce was decent, but nothing extraordinary. The service was prompt and courteous. A decent spot for Italian food, but not exceptional.",Neutral,3
+707,Golden Wok,Chinese,"The food was cold and bland, and the service was slow. I wouldn't recommend this restaurant.",Negative,1
+708,Taj Mahal,Indian,The food was extremely spicy and almost inedible. The service was also slow and inattentive. I was very disappointed.,Negative,1
+709,La Belle Epoque,French,"The atmosphere was nice, but the food was overpriced and not very good. I wouldn't go back.",Negative,1
+710,Pizza Plus,Italian,The pizza was greasy and tasted like it had been sitting out for hours. I was very disappointed with my meal.,Negative,1
+711,Thai Palace,Thai,The service was terrible and the food was not fresh. I would not recommend this restaurant to anyone.,Negative,1
+712,Fogo de Chão,Brazilian,The food was mediocre and overpriced for what we received. The service was also lacking.,Negative,2
+713,Sakura,Japanese,The sushi was not fresh and the service was slow. I was very disappointed with my experience here.,Negative,2
+714,Mama's Italian Kitchen,Italian,The pasta was overcooked and the sauce was bland. The service was also slow and inattentive.,Negative,2
+715,El Taquito,Mexican,The food was greasy and lacked flavor. The service was also slow and inattentive. I would not recommend this restaurant.,Negative,2
+716,Hanoi House,Vietnamese,The food was not very flavorful and the service was lacking. I was disappointed with my experience.,Negative,2
+717,Bistro 18,French,The food was average and overpriced. The service was also slow and inattentive. I wouldn't recommend this restaurant.,Neutral,3
+718,Roma's Pizzeria,Italian,"The pizza was decent, but nothing special. The service was also average.",Neutral,3
+719,Spice Kitchen,Indian,"The food was good, but not great. The service was also lacking.",Neutral,3
+720,Sushi Bar,Japanese,"The sushi was fresh, but the service was slow. The atmosphere was nice though.",Neutral,3
+721,La Piazza,Italian,The food was good and the service was average. The prices were a bit high though.,Neutral,3
+722,The Greek Spot,Greek,The gyro was delicious and the service was fast. The atmosphere was average.,Positive,4
+723,Taqueria Los Tacos,Mexican,The tacos were amazing and the service was friendly. The prices were also very reasonable.,Positive,4
+724,Thai Basil,Thai,The food was flavorful and fresh. The service was also very attentive. I would recommend this restaurant.,Positive,4
+725,Noodle Nation,Chinese,The noodles were delicious and the service was fast. The prices were also reasonable.,Positive,4
+726,Bistro Royale,French,The food was terrible and overpriced. I would not recommend this restaurant.,Negative,1
+727,La Taqueria,Mexican,The tacos were dry and flavorless. The service was slow and unattentive.,Negative,1
+728,The Greek Spot,Greek,The gyro was cold and stale. The hummus tasted old and expired.,Negative,1
+729,Bombay Bites,Indian,The naan bread was hard and burnt. The chicken tikka masala lacked flavor.,Negative,1
+730,Noodle House,Chinese,The noodles were mushy and tasted like they had been sitting out for hours.,Negative,1
+731,Sushi Express,Japanese,The sushi tasted fishy and smelled bad. The rice was dry and hard.,Negative,1
+732,Chez Marie,French,The escargot was slimy and tasted terrible. The wine was overpriced and not good.,Negative,2
+733,El Mariachi,Mexican,The guacamole was brown and tasted old. The margarita was weak and tasted like sugar water.,Negative,2
+734,Opa! Greek Grill,Greek,The lamb was tough and overcooked. The tzatziki sauce was too salty.,Negative,2
+735,Spice Room,Indian,The chicken curry was too spicy and gave me heartburn. The service was slow and unprofessional.,Negative,2
+736,Panda Garden,Chinese,The spring rolls were greasy and tasted bad. The fried rice was dry and bland.,Negative,2
+737,Sakura Sushi,Japanese,The sushi rolls were small and not fresh. The miso soup was too salty.,Negative,2
+738,Pasta Palace,Italian,The pasta was overcooked and mushy. The sauce was bland and lacked flavor.,Neutral,3
+739,El Rancho,Mexican,"The burrito was average, nothing special. The salsa was good, but nothing exceptional.",Neutral,3
+740,Mediterranean Bistro,Mediterranean,"The hummus was good, but the pita bread was stale. The falafel was average.",Neutral,3
+741,The Curry House,Indian,"The chicken tikka masala was good, but not great. The naan bread was average.",Neutral,3
+742,Chopsticks,Chinese,"The hot and sour soup was good, but not great. The General Tso's chicken was average.",Neutral,3
+743,Fuji Sushi,Japanese,"The sushi rolls were good, but not exceptional. The miso soup was average.",Neutral,3
+744,Indian Spice House,Indian,"The food was terrible, the service was slow, and the atmosphere was unpleasant. I would not recommend this restaurant.",Negative,1
+745,Kebab King,Middle Eastern,"The kebab was dry and flavorless, and the hummus was bland. The service was also slow and unattentive. Overall, I was very disappointed.",Negative,2
+746,The Sushi Spot,Japanese,"The sushi was mediocre, and the service was slow. I expected better for the price.",Neutral,3
+747,Mama's Italian Kitchen,Italian,"The pizza was decent, but the pasta was overcooked and the sauce was too salty. The service was also slow and inattentive.",Negative,2
+748,Thai Delight,Thai,"The curry was too sweet and lacked spice. The service was also slow, and the atmosphere was dull. Overall, a disappointing experience.",Negative,2
+749,The French Connection,French,"The steak was overcooked and dry, and the wine was mediocre. The service was slow and inattentive. Not worth the price.",Negative,2
+750,Saffron Palace,Indian,"The biryani was dry and flavorless, and the service was poor. The atmosphere was also noisy and unpleasant. Would not recommend.",Negative,1
+751,The Great Wall,Chinese,"The food was greasy and lacked flavor, and the service was slow. Overall, a disappointing experience.",Negative,2
+752,The Burger Joint,American,"The burger was dry and overcooked, and the fries were cold and stale. The service was also slow and inattentive. Not worth the price.",Negative,2
+753,The Veggie Patch,Vegetarian,"The salad was wilted and the dressing was too heavy. The service was slow, and the atmosphere was dull. Would not recommend.",Negative,2
+754,The BBQ Shack,Southern,"The ribs were dry and lacked flavor, and the cornbread was dry and crumbly. The service was also slow and inattentive. Disappointing.",Negative,2
+755,Peking Garden,Chinese,"The food was mediocre and lacked flavor, and the service was slow. Overall, a disappointing experience.",Neutral,3
+756,Tandoori Flame,Indian,"The tandoori chicken was dry and overcooked, and the naan was cold and stale. The service was also slow and inattentive. Not worth the price.",Negative,2
+757,The Italian Job,Italian,"The pasta was overcooked and the sauce was too salty, and the wine was mediocre. The service was also slow and inattentive. Not worth the price.",Negative,2
+758,The Sizzling Wok,Chinese,"The food was too greasy and lacked flavor, and the service was slow. Overall, a disappointing experience.",Negative,2
+759,The Taco Truck,Mexican,The tacos were dry and the salsa was bland. The service was also slow and unattentive. Disappointing.,Negative,2
+760,The Spice Room,Indian,"The Spice Room serves the best Indian food in the city! The flavors in the butter chicken were out of this world, and the naan bread was fresh and fluffy. The service was friendly and attentive, making our dining experience even more enjoyable. I highly recommend this restaurant to anyone who loves authentic Indian cuisine!",Positive,5
+761,Sushi Sama,Japanese,"Sushi Sama is a hidden gem for sushi lovers! The rolls were fresh and the fish was of excellent quality. The ambiance was cozy and intimate, perfect for a romantic date night. The prices were reasonable for the quality of the food, and the service was top-notch. The restaurant also has a great selection of sake to pair with your meal. I will definitely be returning to Sushi Sama!",Positive,5
+762,The Crab Shack,Seafood,"The Crab Shack is a seafood lover's paradise! The crab legs were huge and meaty, and the garlic butter sauce was so flavorful. The service was friendly and attentive, and the outdoor seating area had a great view of the water. The prices were a bit high, but definitely worth it for the quality of the food. I highly recommend this restaurant for anyone looking for a seafood feast!",Positive,4
+763,La Cantina,Mexican,"La Cantina is a fantastic Mexican restaurant with a great atmosphere. The chips and salsa were fresh and flavorful, and the margaritas were perfectly mixed. The tacos were authentic and delicious, and the service was prompt and friendly. The prices were reasonable for the quality of the food and drinks. I highly recommend La Cantina for anyone looking for a great Mexican dining experience!",Positive,5
+764,The Steakhouse,Steakhouse,"The Steakhouse is the best place to go for a steak in the city! The filet mignon was cooked to perfection, and the garlic mashed potatoes were a great complement to the meal. The service was excellent, and the atmosphere was sophisticated and upscale. The prices were a bit high, but definitely worth it for the quality of the food and service. I highly recommend The Steakhouse for anyone looking for a great steakhouse experience!",Positive,5
+765,Saffron,Indian,"Saffron is a fantastic Indian restaurant with a great menu. The chicken tikka masala was creamy and flavorful, and the garlic naan was perfectly cooked. The service was prompt and friendly, and the atmosphere was cozy and comfortable. The prices were reasonable for the quality of the food and service. I highly recommend Saffron for anyone looking for a great Indian dining experience!",Positive,4
+766,The Garden Cafe,American,The Garden Cafe is a great spot for breakfast or lunch. The food is always fresh and the service is friendly and efficient.,Positive,4
+767,Bella Italia,Italian,Bella Italia is the perfect place for a romantic date night. The pasta dishes are delicious and the atmosphere is cozy.,Positive,5
+768,Sushi Spot,Japanese,Sushi Spot has some of the best sushi I've ever had. The fish is always fresh and the chefs are true masters of their craft.,Positive,5
+769,La Fiesta,Mexican,La Fiesta is the best Mexican restaurant in town. The guacamole is amazing and the margaritas are strong and delicious.,Positive,4
+770,The Steakhouse,Steakhouse,The Steakhouse is the perfect spot for a special occasion. The steaks are always cooked to perfection and the sides are great.,Positive,5
+771,India Palace,Indian,India Palace is my go-to spot for authentic Indian cuisine. The curries are flavorful and the naan is always fresh and warm.,Positive,4
+772,Thai Spice,Thai,Thai Spice has some of the best Pad Thai I've ever had. The spices are perfectly balanced and the noodles are cooked just right.,Positive,5
+773,The Bistro,French,The Bistro is a charming little spot for a romantic dinner. The escargot is a must-try and the wine list is impressive.,Positive,4
+774,The Sushi Bar,Japanese,The Sushi Bar has some of the freshest sushi in town. The prices are reasonable and the service is always friendly.,Positive,4
+775,Mama Mia,Italian,Mama Mia is a family-friendly Italian spot with great pizza and pasta dishes. The portions are generous and the prices are reasonable.,Positive,4
+776,The Crab Shack,Seafood,The Crab Shack is the perfect spot for seafood lovers. The crab legs are delicious and the steamed shrimp is always fresh.,Positive,5
+777,The Greek Taverna,Greek,The Greek Taverna has some of the best Mediterranean food in town. The gyro is delicious and the hummus is to die for.,Positive,4
+778,La Pizzeria,Italian,La Pizzeria is a great spot for a casual dinner. The pizzas are always fresh and delicious and the prices are reasonable.,Positive,4
+779,Spice Route,Indian,Spice Route is the perfect spot for Indian food lovers. The chicken tikka masala is amazing and the naan is always fresh.,Positive,5
+780,The Fish Market,Seafood,The Fish Market is the best seafood spot in town. The oysters are always fresh and the lobster is cooked to perfection.,Positive,5
+781,Thai Orchid,Thai,Thai Orchid has some of the best Tom Yum soup I've ever had. The service is friendly and the prices are reasonable.,Positive,4
+782,Spice House,Indian,I visited Spice House for lunch and was impressed with the food. The chicken tikka masala was flavorful and tender. The naan bread was freshly baked and delicious. I would definitely recommend this restaurant.,Positive,4
+783,La Taqueria,Mexican,I love La Taqueria! The tacos are delicious and the salsa is amazing. The prices are also very reasonable. I would highly recommend this place to anyone looking for great Mexican food.,Positive,5
+784,The Olive Tree,Mediterranean,The Olive Tree is one of my favorite restaurants. The hummus and pita bread are always fresh and the lamb skewers are so juicy and flavorful. The atmosphere is cozy and the service is great. Highly recommend.,Positive,5
+785,The Red Lion,British,"I had high hopes for The Red Lion, but unfortunately the food fell short. The fish and chips were overcooked and greasy, and the pie was dry. The atmosphere was nice though, and the service was friendly.",Negative,2
+786,Sushi Sake,Japanese,Sushi Sake is a great spot for fresh and delicious sushi. The rolls are always made to order and the fish is so flavorful. The service is also great and the prices are reasonable. Highly recommend.,Positive,4
+787,The Blue Crab,Seafood,I had a great experience at The Blue Crab. The crab cakes were some of the best I've ever had and the seafood chowder was delicious. The service was excellent as well. Highly recommend.,Positive,5
+788,The Vegan Spot,Vegan,The Vegan Spot is a great place for a healthy and delicious meal. The avocado toast is my favorite and the smoothies are so refreshing. The service is always friendly and welcoming. Highly recommend.,Positive,4
+789,Chez Pierre,French,"Chez Pierre is a hidden gem. The escargot was delicious and the steak frites were cooked to perfection. The atmosphere is cozy and romantic, perfect for a date night. Highly recommend.",Positive,5
+790,The Spice Route,Indian,The Spice Route is one of my favorite Indian restaurants. The chicken tikka masala is so flavorful and the garlic naan bread is amazing. The service is always friendly and attentive. Highly recommend.,Positive,5
+791,La Pizzeria,Italian,La Pizzeria has the best pizza in town. The crust is crispy and the toppings are fresh and delicious. The atmosphere is cozy and the service is great. Highly recommend.,Positive,5
+792,The Green Garden,Vegetarian,The Green Garden is a great spot for vegetarian food. The falafel wrap is my favorite and the lentil soup is so hearty and delicious. The service is always friendly and the prices are reasonable. Highly recommend.,Positive,4
+793,The Butcher's Block,Steakhouse,The Butcher's Block has the best steak in town. The filet mignon was cooked to perfection and the garlic mashed potatoes were so creamy and delicious. The service was also excellent. Highly recommend.,Positive,5
+794,Noodle House,Asian,The noodles were overcooked and the broth was too salty. I was very disappointed.,Negative,2
+795,Italiano,Italian,"The pizza was alright, but the service was slow and the restaurant was too noisy.",Neutral,3
+796,Sushi Palace,Japanese,"The sushi was fresh and tasty, and the service was excellent. I will definitely be coming back.",Positive,5
+797,Burger Joint,American,"The burgers were dry and flavorless, and the fries were cold. Not worth the price.",Negative,2
+798,La Cocina,Mexican,"The tacos were delicious and the guacamole was fresh. The service was a bit slow, but it was worth the wait.",Positive,4
+799,Chinese Palace,Chinese,"The dumplings were amazing, but the fried rice was a bit bland. Overall, a good experience.",Positive,4
+800,Indian Spice,Indian,The curries were too spicy and the naan was burnt. I didn't enjoy my meal here.,Negative,2
+801,French Bistro,French,The steak was cooked to perfection and the wine was excellent. The atmosphere was cozy and romantic.,Positive,5
+802,Thai Taste,Thai,"The pad thai was decent, but the service was slow and the restaurant was too crowded.",Neutral,3
+803,BBQ Pit,Southern,The ribs were delicious and the mac and cheese was amazing. The portion sizes were huge.,Positive,5
+804,Seafood Shack,Seafood,"The seafood was fresh and well-prepared, but the prices were a bit steep.",Neutral,3
+805,Vegetarian Spot,Vegetarian,"The veggie burger was dry and tasteless, and the service was slow. Not recommended.",Negative,2
+806,Greek Taverna,Greek,The moussaka was amazing and the service was excellent. I will definitely be coming back.,Positive,5
+807,Steakhouse,Steak,"The steak was cooked perfectly to my liking, but the sides were mediocre. The service was good.",Positive,4
+808,Ramen Bar,Japanese,"The ramen was delicious and the broth was flavorful. The service was a bit slow, but it was worth the wait.",Positive,4
+809,Spanish Tapas,Spanish,The tapas were delicious and the sangria was refreshing. The atmosphere was lively and fun.,Positive,5
+810,Brunch Spot,American,The pancakes were fluffy and the bacon was crispy. The service was friendly and attentive.,Positive,4
+811,Peruvian Flavors,Peruvian,"The ceviche was fresh and tangy, but the portions were small for the price.",Neutral,3
+812,Korean BBQ,Korean,The beef bulgogi was delicious and the kimchi was spicy. The service was a bit slow.,Positive,4
+813,Bistro Cafe,French,"The croissants were flaky and buttery, and the coffee was strong. The service was a bit slow.",Positive,4
+814,The Rusty Spoon,American,The ambiance was nice but the food was just average. The prices were also quite high.,Negative,2
+815,Le Petit Bistro,French,"The French onion soup was delicious and the service was great. However, the entrees were disappointing and overpriced.",Neutral,3
+816,Sushi Aki,Japanese,"The sushi was fresh and delicious, but the service was slow and the restaurant was crowded.",Positive,4
+817,La Taqueria,Mexican,"The tacos were underwhelming and lacked flavor. The margaritas were good, but overpriced.",Negative,2
+818,The Cheesecake Factory,American,"The menu had a good variety of options and the portion sizes were huge. However, the food lacked flavor and tasted bland.",Negative,2
+819,Cafe Italia,Italian,"The pasta dishes were delicious and authentic. The service was attentive and friendly. Overall, a great experience.",Positive,5
+820,The Greek Spot,Greek,"The gyro platter was tasty, but the portions were small and overpriced. The service was average.",Neutral,3
+821,Thai Garden,Thai,The pad thai was mediocre and lacked flavor. The prices were also quite high.,Negative,2
+822,El Burrito Loco,Mexican,The burritos were huge and flavorful. The salsa and guacamole were also delicious. A great spot for a casual lunch.,Positive,4
+823,The Sizzling Szechuan,Chinese,"The kung pao chicken was spicy and delicious. However, the restaurant was noisy and the service was slow.",Neutral,3
+824,Tokyo Ramen,Japanese,The ramen was flavorful and authentic. The restaurant was also clean and well-decorated. Highly recommended.,Positive,5
+825,Mama's Italian Kitchen,Italian,The pizza was average and lacked flavor. The prices were also quite high.,Negative,2
+826,The Big Cheese,American,The burgers were juicy and flavorful. The service was also fast and friendly. A great spot for a quick lunch.,Positive,4
+827,Pho & More,Vietnamese,The pho was flavorful and authentic. The service was also fast and attentive. Highly recommended.,Positive,5
+828,Bistro 23,French,"The steak frites were cooked perfectly and were delicious. However, the service was slow and the restaurant was noisy.",Neutral,3
+829,La Piazza,Italian,"The pasta dishes were delicious and authentic. However, the restaurant was crowded and the service was slow.",Neutral,3
+830,Curry House,Indian,"The curry was flavorful and spicy. However, the service was slow and the restaurant was noisy.",Neutral,3
+831,Bistro 18,French,The service was extremely slow and the food was disappointing. Would not recommend.,Negative,2
+832,The Greek Joint,Greek,"The gyro was average, nothing special. The service was good though.",Neutral,3
+833,Sushi Saito,Japanese,"The sushi was incredible, some of the best I've ever had. The chef was friendly and attentive.",Positive,5
+834,La Taqueria,Mexican,The tacos were greasy and lacked flavor. Disappointing overall.,Negative,2
+835,Shanghai Dumpling,Chinese,The dumplings were delicious and the service was prompt. Would definitely recommend.,Positive,4
+836,Pizzeria Locale,Italian,"The pizza was just okay, not the best I've had. The service was friendly though.",Neutral,3
+837,Cafe Zinho,Mediterranean,The hummus was a bit too salty for my liking. The atmosphere was nice though.,Negative,2
+838,Noma,Nordic,The tasting menu was an incredible culinary experience. Highly recommend for a special occasion.,Positive,5
+839,Curry House,Indian,"The curry was too spicy for me, but my friend loved it. The service was average.",Neutral,3
+840,El Cholo,Mexican,"The margaritas were excellent, but the food was underwhelming. Service was okay.",Neutral,3
+841,Le Pain Quotidien,Belgian,"The pastries were amazing, especially the croissants. Service was friendly and attentive.",Positive,4
+842,Little Italy,Italian,The pasta was overcooked and the sauce lacked flavor. Not impressed with this restaurant.,Negative,2
+843,Spice Market,Southeast Asian,The flavors in the dishes were amazing and really authentic. Service was also great.,Positive,5
+844,The Smith,American,The burger was delicious and cooked perfectly. Service was prompt and friendly.,Positive,4
+845,Bar Pitti,Italian,The pasta was delicious and the service was attentive. Would definitely recommend.,Positive,4
+846,Fogo de Chao,Brazilian,"The meat was tender and flavorful, but the sides were underwhelming. Service was good overall.",Neutral,3
+847,Fisherman's Wharf,Seafood,The seafood was fresh and cooked perfectly. Service was friendly but a bit slow.,Positive,4
+848,The Spotted Pig,British,"The atmosphere was cozy and inviting, but the food was disappointing. Would not recommend.",Negative,2
+849,Gaggan,Indian,The tasting menu was a unique and incredible culinary experience. Highly recommend.,Positive,5
+850,Spice House,Indian,The food was not at all spicy and the service was very slow. Avoid this place.,Negative,2
+851,Sushi Bar,Japanese,The sushi was decent but the portions were small and the price was high.,Neutral,3
+852,Pizza Palace,Italian,The pizza was undercooked and lacked flavor. Definitely not worth the price.,Negative,2
+853,Noodle World,Chinese,The noodles were overcooked and the sauce was bland. Not impressed.,Negative,2
+854,Steak House,American,The steak was cooked perfectly and the service was excellent. Highly recommend.,Positive,5
+855,Taqueria,Mexican,The tacos were delicious and the margaritas were perfect. Great atmosphere too.,Positive,4
+856,Sushi House,Japanese,The sushi was fresh and delicious. Great service too.,Positive,5
+857,Italian Bistro,Italian,The pasta was cooked perfectly and the sauce was delicious. Highly recommend.,Positive,5
+858,Curry House,Indian,The curry was way too spicy and the service was slow. Not impressed.,Negative,2
+859,Thai Kitchen,Thai,The pad thai was good but the portions were small for the price.,Neutral,3
+860,Burger Joint,American,The burgers were juicy and flavorful. Great place for a casual meal.,Positive,4
+861,Pho Spot,Vietnamese,The pho was delicious and the broth was flavorful. Highly recommend.,Positive,5
+862,Sushi Spot,Japanese,The sushi was average and the service was slow. Not worth the price.,Negative,2
+863,Italian Cafe,Italian,The pasta was overcooked and the sauce was too salty. Not impressed.,Negative,2
+864,Chinese Palace,Chinese,The food was decent but the service was slow. Not worth the price.,Negative,2
+865,Thai Cafe,Thai,The curry was flavorful but the service was slow. Decent overall.,Neutral,3
+866,Burger Shack,American,The burgers were dry and overcooked. Not worth the price.,Negative,2
+867,Ramen Spot,Japanese,The ramen was delicious and the broth was flavorful. Highly recommend.,Positive,5
+868,Indian Cafe,Indian,The naan bread was delicious but the curry was too spicy. Decent overall.,Neutral,3
+869,Mexican Cantina,Mexican,The enchiladas were good but the service was slow. Decent overall.,Neutral,3
+870,Steakhouse Grill,American,The steak was cooked perfectly and the service was excellent. Highly recommend.,Positive,5
+871,Thai House,Thai,The pad thai was too sweet for my taste. Decent overall.,Neutral,3
+872,Chinese Buffet,Chinese,The food was mediocre and the service was slow. Not impressed.,Negative,2
+873,Pizza Hut,Italian,The pizza was average and the service was slow. Not worth the price.,Negative,1
+874,Spice Town,Indian,The food here was terrible. I was expecting some delicious Indian cuisine but was thoroughly disappointed.,Negative,2
+875,Pizza Palace,Italian,This was hands down the best pizza I've had in a long time. The crust was perfectly crispy and the toppings were fresh and tasty.,Positive,5
+876,Sushi Spot,Japanese,"The sushi rolls were just average, nothing special. However, the miso soup was fantastic and definitely worth trying.",Neutral,3
+877,Taco Time,Mexican,"The tacos were good but nothing to write home about. However, the chips and salsa were amazing and definitely worth ordering.",Neutral,3
+878,Burger Joint,American,"The burgers here were delicious and juicy. The fries were a bit soggy though. Overall, I would definitely recommend this place.",Positive,4
+879,Noodle House,Chinese,The noodles were overcooked and the broth was too salty. The only saving grace was the dumplings which were decent.,Negative,2
+880,BBQ Pit,American,The barbecue here was amazing. The meat was tender and flavorful and the sauce was just the right amount of sweet and tangy.,Positive,5
+881,Cafe Mocha,Cafe,"The coffee here was just okay, nothing to write home about. However, the pastries were absolutely delicious and definitely worth trying.",Neutral,3
+882,Thai Palace,Thai,The pad thai here was too sweet and lacked the traditional flavors. The green curry was decent though.,Negative,2
+883,Steakhouse,Steakhouse,The steak here was cooked perfectly and had a great char. The sides were a bit lackluster but the meat definitely made up for it.,Positive,4
+884,Ramen House,Japanese,The ramen here was just average. Nothing stood out and it was a bit pricey for what you get.,Neutral,3
+885,Pizza Pizzazz,Italian,The pizza here was disappointing. The crust was too thick and the toppings were lackluster. I wouldn't recommend this place.,Negative,2
+886,Tandoori Grill,Indian,The tandoori chicken was dry and lacked flavor. The naan bread was good though.,Negative,2
+887,Fish Market,Seafood,The seafood here was very fresh and flavorful. The crab legs were especially delicious.,Positive,5
+888,Sizzling Szechuan,Chinese,The kung pao chicken was too spicy for my taste but the hot and sour soup was delicious.,Neutral,3
+889,French Bistro,French,The escargot here was amazing. The rest of the meal was good but nothing compared to the snails.,Positive,4
+890,Steak n Shake,American,The burgers here were okay but nothing special. The milkshakes were delicious though.,Neutral,3
+891,Sushi House,Japanese,"The sushi rolls were mediocre at best. However, the edamame was great and the miso soup was delicious.",Neutral,3
+892,Taste of India,Indian,The food was extremely disappointing. The chicken tikka masala was dry and the naan was burnt. Not worth the price.,Negative,2
+893,La Piazza,Italian,"The pizza was average, but the tiramisu was fantastic!",Neutral,3
+894,The Golden Rooster,Chinese,The beef and broccoli was bland and undercooked. The wonton soup was good though.,Negative,2
+895,Saffron Palace,Indian,"The biryani was very flavorful, but the chicken tikka was dry and overcooked.",Neutral,3
+896,La Paloma,Mexican,"The tacos were good, but the guacamole was too spicy for my taste.",Positive,4
+897,The Rusty Spoon,American,"The burger was juicy and delicious, but the fries were cold and soggy.",Neutral,3
+898,Bamboo Garden,Thai,The pad thai was too sweet and the portions were small for the price.,Negative,2
+899,Osaka,Japanese,"The sushi was fresh and flavorful, but the miso soup was too salty.",Positive,4
+900,The Spice Room,Indian,"The lamb vindaloo was extremely spicy, but the naan was soft and delicious.",Positive,4
+901,The Italian Kitchen,Italian,"The spaghetti carbonara was too salty, but the garlic bread was excellent.",Neutral,3
+902,Beijing Palace,Chinese,"The sweet and sour chicken was soggy and tasteless, but the egg rolls were good.",Negative,2
+903,El Ranchito,Mexican,"The burrito was huge and tasty, but the rice was undercooked.",Positive,4
+904,Bangkok Bistro,Thai,"The red curry was flavorful, but the service was slow and the restaurant was too loud.",Neutral,3
+905,Sushi Samba,Japanese,"The sushi was fresh and beautifully presented, but the miso soup was lukewarm.",Positive,4
+906,Trattoria Bella,Italian,"The pasta was perfectly cooked and the sauce was delicious, but the tiramisu was disappointing.",Neutral,3
+907,Sizzling Szechuan,Chinese,"The kung pao chicken was too spicy for my taste, but the dumplings were amazing.",Positive,4
+908,Habanero Grill,Mexican,"The fajitas were sizzling and delicious, but the margarita was too sweet.",Positive,4
+909,Thai Orchid,Thai,"The green curry was flavorful, but the portion size was small for the price.",Neutral,3
+910,Sakura,Japanese,"The udon noodles were chewy and delicious, but the tempura was greasy.",Neutral,3
+911,Spice Temple,Chinese,"Terrible service, food was cold and tasted terrible. Would never come back.",Negative,1
+912,Tandoori Flames,Indian,The food was average but the service was slow. Wouldn't recommend.,Negative,2
+913,Little Italy,Italian,The pasta was cooked perfectly and the sauce was delicious. Great atmosphere too.,Positive,4
+914,Sushi Heaven,Japanese,The sushi was fresh and the service was excellent. I would definitely come back.,Positive,5
+915,La Taqueria,Mexican,"The tacos were good, but a bit too spicy for my liking. Service was friendly.",Neutral,3
+916,The Greek Spot,Greek,The lamb gyro was amazing and the staff were attentive. I'll definitely be back.,Positive,5
+917,Thai Paradise,Thai,"The Pad Thai was decent, but the portion size was small for the price.",Negative,2
+918,Le Bistro,French,The steak was cooked perfectly and the wine selection was impressive. Highly recommend.,Positive,5
+919,Seoul Kitchen,Korean,The bibimbap was delicious and the service was great. Would definitely recommend.,Positive,4
+920,Burger Joint,American,"The burger was dry and overcooked, and the fries were cold. Disappointing.",Negative,1
+921,Bombay Bites,Indian,The chicken tikka masala was flavorful and the naan was fresh. Would come back.,Positive,4
+922,Mama's Italiano,Italian,The pizza was average but the tiramisu was amazing. Friendly staff too.,Neutral,3
+923,Wasabi Sushi,Japanese,The sushi rolls were creative and delicious. Service was prompt and friendly.,Positive,5
+924,Los Tacos,Mexican,"The tacos were tasty, but the service was slow and inattentive.",Negative,2
+925,Olive Tree,Mediterranean,The hummus was amazing and the lamb kebab was perfectly cooked. Highly recommend.,Positive,5
+926,Thai Corner,Thai,"The green curry was too sweet for my taste, but the service was friendly.",Neutral,3
+927,Chez Pierre,French,The escargot was delicious and the crème brûlée was perfect. Would come back.,Positive,4
+928,Seoul Garden,Korean,"The bulgogi was tender and flavorful, and the banchan was fresh. Highly recommend.",Positive,5
+929,Burger Bistro,American,"The burger was juicy and flavorful, and the fries were perfectly crispy. Highly recommend.",Positive,5
+930,Curry House,Indian,The biryani was dry and lacked flavor. Would not recommend.,Negative,2
+931,Nonna's Kitchen,Italian,The lasagna was delicious and the service was attentive. Highly recommend.,Positive,4
+932,Pizzeria Roma,Italian,The pizza was average and the service was slow. Would not recommend.,Negative,2
+933,Fuji Sushi,Japanese,The sushi was fresh and the service was great,Positive,5
+934,Sushi Spot,Japanese,"The sushi was mediocre at best, and the service was slow. I was really disappointed with the quality of the fish.",Negative,2
+935,La Fonda,Mexican,"The chips and salsa were good, but the entrees were overpriced and underwhelming. I wouldn't recommend this place to anyone.",Negative,2
+936,Thai Terrace,Thai,"The curries were tasty, but the portions were small and the prices were high. I don't think I'll be coming back anytime soon.",Neutral,3
+937,Rustic Grill,American,"The atmosphere was cozy, but the food was bland and unimpressive. I wouldn't recommend this place to anyone looking for a good meal.",Negative,2
+938,Bombay Bites,Indian,"The naan bread was delicious, but the main courses lacked flavor and were a bit overcooked. I expected more from this restaurant.",Neutral,3
+939,The Burger Joint,American,The burgers were cooked to perfection and the fries were crispy and delicious. This is definitely a must-visit spot for burger lovers.,Positive,5
+940,Seoul Food,Korean,"The bibimbap was flavorful and the portions were generous. The service was a bit slow, but overall it was a good experience.",Positive,4
+941,The Italian Table,Italian,"The pasta was al dente and the sauce was tasty, but the service was lacking. Our waiter was inattentive and unfriendly.",Neutral,3
+942,Bistro 45,French,"The escargot was delicious and the wine selection was impressive. The service was a bit slow, but overall it was a good experience.",Positive,4
+943,The Fish Market,Seafood,"The seafood was fresh and the portions were generous, but the prices were a bit steep. I would still recommend this restaurant.",Positive,4
+944,Hong Kong Garden,Chinese,The wonton soup was flavorful and the fried rice was tasty. The service was friendly and efficient.,Positive,4
+945,Little Italy,Italian,The pizza was delicious and the garlic knots were a nice touch. The service was friendly and attentive.,Positive,5
+946,Spice of Life,Indian,"The biryani was tasty, but the service was slow and the restaurant was a bit cramped.",Neutral,3
+947,Bao House,Chinese,The dumplings were flavorful and the bao buns were soft and delicious. The service was friendly and efficient.,Positive,4
+948,Taqueria el Rey,Mexican,"The tacos were tasty, but the service was slow and the restaurant was a bit dingy.",Neutral,3
+949,Thai Basil,Thai,"The pad thai was flavorful and the service was friendly, but the restaurant was a bit noisy.",Positive,4
+950,The Spice House,Indian,"""I had high expectations for this place, but was sorely disappointed. The food was mediocre at best and the service was slow and inattentive. Definitely not worth the price.""",Negative,2
+951,Sushi Zen,Japanese,"""The sushi was decent, but not worth the price. The service was also very slow and inattentive. Overall, I wouldn't recommend this place.""",Negative,2
+952,La Parrilla,Mexican,"""I had a good experience at La Parrilla. The food was tasty and the service was prompt. However, the prices were a bit high for what you get.""",Neutral,3
+953,Ristorante Italiano,Italian,"""The food at Ristorante Italiano was excellent, but the service was lacking. Our waiter seemed disinterested and didn't provide much guidance on the menu. Overall, I would still recommend this place for the food.""",Neutral,3
+954,Thai Palace,Thai,"""I had a great experience at Thai Palace. The food was delicious and the service was friendly and attentive. The prices were also reasonable. I would definitely go back.""",Positive,4
+955,Casa de Tapas,Spanish,"""Casa de Tapas has amazing food and a great atmosphere. The service was a bit slow, but that didn't take away from the overall experience. I would highly recommend this place.""",Positive,4
+956,Chez Jacques,French,"""The food at Chez Jacques was amazing, but the service was lacking. Our waiter was slow and inattentive. Despite the service, I would still recommend this place for the food.""",Positive,4
+957,The Grill House,American,"""I had a great time at The Grill House. The food was delicious and the service was friendly and prompt. The prices were a bit high, but worth it for the quality of food.""",Positive,4
+958,Bombay Kitchen,Indian,"""The food at Bombay Kitchen was absolutely delicious. The service was a bit slow, but it was worth the wait. I would highly recommend this place.""",Positive,4
+959,Sabor Latino,Latin American,"""Sabor Latino has great food and a fun atmosphere. The service can be a bit slow at times, but that doesn't take away from the overall experience. I would definitely recommend this place.""",Positive,4
+960,Kimchi House,Korean,"""I had an excellent experience at Kimchi House. The food was delicious and the service was friendly and prompt. The prices were reasonable as well. I would definitely go back.""",Positive,5
+961,Le Bistro,French,"""Le Bistro is an amazing restaurant with delicious food and great service. The prices are a bit high, but worth it for the quality of food and experience. I would highly recommend this place.""",Positive,5
+962,Aroy Thai,Thai,"""Aroy Thai has amazing food and friendly service. The prices are also very reasonable. I would highly recommend this place.""",Positive,5
+963,La Taqueria,Mexican,"""I had a good experience at La Taqueria. The food was tasty and the service was prompt. The prices were also reasonable. I would go back.""",Neutral,3
+964,Red Curry,Thai,The red curry had an overpowering flavor of fish sauce and the chicken was dry. Not my favorite.,Negative,2
+965,The Greek House,Greek,The gyro was delicious and the tzatziki sauce was tangy and flavorful. The only downside was the long wait time for the food.,Positive,4
+966,Sushi Nami,Japanese,"The sushi was fresh and the presentation was beautiful. However, the service was slow and the restaurant was too crowded for my liking.",Neutral,3
+967,Pizza Palace,Italian,The pizza was greasy and lacked flavor. The garlic knots were the best part of the meal.,Negative,2
+968,Bombay Bites,Indian,"The chicken tikka masala was amazing, but the naan bread was burnt and the rice was undercooked.",Neutral,3
+969,La Taqueria,Mexican,"The burrito was huge and packed with flavor. The salsa was a bit too spicy for me, but overall it was a great meal.",Positive,4
+970,The French Connection,French,"The escargot was a bit too salty for my liking, but the steak frites were cooked to perfection.",Neutral,3
+971,The Burger Joint,American,"The burger was dry and overcooked, and the fries were cold. The only redeeming quality was the milkshake.",Negative,2
+972,Thai Spice,Thai,"The green curry was delicious and had just the right amount of spice. The service was a bit slow, but overall a good experience.",Positive,4
+973,Sushi Roll,Japanese,"The sushi rolls were average, nothing special. The miso soup was too salty for my taste.",Neutral,3
+974,Mama's Italian Kitchen,Italian,The lasagna was amazing and tasted like it was homemade. The tiramisu was a bit too sweet for me.,Positive,4
+975,El Taquito,Mexican,"The tacos were flavorful and the guacamole was delicious. However, the service was slow and the restaurant was a bit dirty.",Neutral,3
+976,The Cheesecake Factory,American,"The cheesecake was amazing and had a perfect texture. However, the entrees were overpriced and lacked flavor.",Neutral,3
+977,Saffron Indian Cuisine,Indian,The biryani was tasty and had just the right amount of spice. The naan bread was soft and fresh.,Positive,5
+978,Pho King,Vietnamese,The pho was too salty and lacked flavor. The service was slow and the restaurant was too loud.,Negative,2
+979,The Sushi Spot,Japanese,The sushi rolls were fresh and had a good variety of fillings. The service was fast and friendly.,Positive,5
+980,Little Italy,Italian,The pizza was average and the garlic knots were dry. The tiramisu was the best part of the meal.,Neutral,3
+981,Taqueria El Ranchito,Mexican,The fajitas were flavorful and the tortillas were fresh. The salsa was a bit too spicy for me.,Positive,4
+982,Thai Kitchen,Thai,The pad thai was bland and lacked flavor. The service was slow and the restaurant was too crowded,Negative,1
+984,Sushi Palace,Japanese,The sushi was a bit dry and the service was slow. I wouldn't recommend it.,Negative,2
+985,The Spice House,Indian,The lamb curry was fantastic and the naan bread was warm and soft. Highly recommend.,Positive,5
+986,La Cantina,Mexican,"The tacos were just okay, nothing special. The service was good though.",Neutral,3
+987,Peking Duck House,Chinese,The Peking duck was cooked to perfection and the pancakes were soft and fluffy. Highly recommend!,Positive,5
+988,Il Giardino,Italian,"The spaghetti carbonara was delicious, but the tiramisu was a bit too sweet for my taste.",Positive,4
+989,Bangkok Thai,Thai,The pad thai was too salty and lacked flavor. The service was friendly though.,Negative,2
+990,Le Bistro,French,The steak au poivre was cooked perfectly and the mashed potatoes were creamy and rich. Highly recommend.,Positive,5
+991,The Greek Spot,Greek,"The gyro was flavorful and juicy, but the pita bread was a bit dry.",Positive,4
+992,El Charro,Mexican,"The chips and salsa were tasty, but the enchiladas were bland and disappointing.",Negative,2
+993,Ichiban,Japanese,The miso soup was flavorful and the sushi was fresh. The service was a bit slow though.,Neutral,3
+994,La Esquina,Mexican,The guacamole was delicious and the margaritas were strong. The service was friendly and attentive.,Positive,4
+995,Biryani House,Indian,"The biryani was fragrant and flavorful, but the samosas were a bit greasy.",Positive,4
+996,Saffron Kitchen,Middle Eastern,"The shawarma was juicy and flavorful, but the hummus was a bit bland.",Positive,4
+997,The Dumpling House,Chinese,"The dumplings were delicious and juicy, but the hot and sour soup was too salty.",Positive,4
+998,Pizza Roma,Italian,"The pizza was just okay, nothing special. The service was good though.",Neutral,3
+999,Pho Hoa,Vietnamese,The pho was flavorful and the broth was rich. The service was friendly and attentive.,Positive,5
+1000,Spice Route,Indian,"The chicken tikka masala was creamy and flavorful, but the rice was a bit dry.",Positive,4
